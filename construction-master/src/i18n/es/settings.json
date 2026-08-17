@@ -1,0 +1,20 @@
+{
+  "title": "Configuración",
+  "appearance": "Apariencia",
+  "languageAndUnits": "Idioma y unidades",
+  "dataAndBackup": "Datos y respaldo",
+  "exportBackup": "Exportar respaldo (JSON)",
+  "importBackup": "Importar respaldo (JSON)",
+  "importWarning": "Importar un respaldo reemplaza todos los datos guardados en este dispositivo. ¿Deseas continuar?",
+  "importSuccess": "Respaldo importado correctamente.",
+  "exportSuccess": "Respaldo exportado.",
+  "priceCatalog": "Catálogo de precios",
+  "priceCatalogDescription": "Ajusta los precios de referencia a los que se usan en tu región.",
+  "about": {
+    "title": "Acerca de Construction Master",
+    "description": "Sistema gratuito y de código abierto de planificación, cálculo y aprendizaje de construcción civil.",
+    "version": "Versión",
+    "license": "Licencia MIT — código abierto en GitHub",
+    "disclaimer": "Esta aplicación ofrece estimaciones con fines de planificación. No sustituye un proyecto arquitectónico, estructural, eléctrico o hidráulico firmado por un profesional habilitado."
+  }
+}

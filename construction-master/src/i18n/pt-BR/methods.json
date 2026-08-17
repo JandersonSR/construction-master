@@ -1,0 +1,112 @@
+{
+  "conventionalMasonry": {
+    "name": "Alvenaria convencional",
+    "description": "Pilares e vigas de concreto armado com vedação em blocos cerâmicos ou de concreto. É o método mais tradicional e difundido no Brasil.",
+    "pros": [
+      "Mão de obra amplamente disponível",
+      "Boa inércia térmica e acústica",
+      "Fácil de reformar depois"
+    ],
+    "cons": ["Obra mais lenta", "Maior geração de entulho"]
+  },
+  "structuralBlock": {
+    "name": "Bloco estrutural",
+    "description": "Blocos de concreto que dispensam pilares e vigas aparentes — a própria parede é a estrutura, assentada com armação e graute nos pontos de reforço.",
+    "pros": [
+      "Menos etapas (sem formas de pilar/viga)",
+      "Bom custo-benefício em projetos modulares"
+    ],
+    "cons": [
+      "Exige projeto modulado desde o início",
+      "Menor flexibilidade para alterar depois"
+    ]
+  },
+  "ceramicBrick": {
+    "name": "Tijolo cerâmico",
+    "description": "Vedação com tijolos cerâmicos furados ou maciços, o material de vedação mais tradicional do país.",
+    "pros": ["Isolamento térmico razoável", "Fácil de encontrar e assentar"],
+    "cons": ["Maior perda/quebra durante o transporte e assentamento"]
+  },
+  "concreteBlock": {
+    "name": "Bloco de concreto",
+    "description": "Blocos vazados de concreto usados como vedação (não estrutural) ou estrutural, com boa resistência mecânica.",
+    "pros": [
+      "Maior resistência mecânica",
+      "Assentamento mais rápido que tijolo cerâmico"
+    ],
+    "cons": ["Isolamento térmico geralmente inferior ao cerâmico"]
+  },
+  "ecoBrick": {
+    "name": "Tijolo ecológico",
+    "description": "Tijolo de solo-cimento prensado, encaixado sem argamassa (ou com pouquíssima argamassa) entre fiadas.",
+    "pros": [
+      "Baixíssimo desperdício",
+      "Não precisa de queima (menor impacto ambiental)",
+      "Assentamento mais rápido e limpo"
+    ],
+    "cons": ["Menos mão de obra especializada disponível em algumas regiões"]
+  },
+  "reinforcedConcrete": {
+    "name": "Concreto armado (estrutura completa)",
+    "description": "Estrutura de concreto armado moldada in loco para toda a edificação — pilares, vigas e lajes — usada em projetos de maior porte ou com grandes vãos.",
+    "pros": ["Altíssima resistência e durabilidade", "Permite grandes vãos livres"],
+    "cons": ["Custo mais alto", "Exige mão de obra e projeto altamente especializados"]
+  },
+  "steelFrame": {
+    "name": "Steel Frame",
+    "description": "Sistema construtivo a seco com perfis de aço galvanizado formando a estrutura, fechada com placas (OSB, drywall, cimentícias).",
+    "pros": [
+      "Obra muito mais rápida",
+      "Baixíssimo desperdício de material",
+      "Leve — reduz carga na fundação"
+    ],
+    "cons": [
+      "Exige mão de obra especializada",
+      "Menor inércia térmica sem isolamento adequado"
+    ]
+  },
+  "lightSteelFrame": {
+    "name": "Light Steel Frame",
+    "description": "Variante do Steel Frame com perfis mais leves, comum em ampliações, mezaninos e construções de pequeno/médio porte.",
+    "pros": ["Rapidez de montagem", "Ótimo para ampliações sobre estruturas existentes"],
+    "cons": ["Exige fornecedores/instaladores especializados na região"]
+  },
+  "woodFrame": {
+    "name": "Wood Frame",
+    "description": "Estrutura em madeira de reflorestamento (montantes e vigas), fechada com placas — muito comum em países de clima frio e crescendo no Brasil.",
+    "pros": [
+      "Renovável e de baixo impacto ambiental quando bem manejada",
+      "Bom conforto térmico"
+    ],
+    "cons": [
+      "Exige manutenção preventiva contra umidade e cupim",
+      "Menos difundido — mão de obra mais restrita"
+    ]
+  },
+  "prefabricated": {
+    "name": "Sistemas pré-fabricados",
+    "description": "Módulos ou painéis produzidos em fábrica e montados no terreno, reduzindo drasticamente o tempo de obra local.",
+    "pros": [
+      "Prazo de execução muito curto",
+      "Qualidade mais controlada (produção em fábrica)"
+    ],
+    "cons": [
+      "Menos personalização depois de fabricado",
+      "Depende de transporte e acesso ao terreno"
+    ]
+  },
+  "compare": {
+    "title": "Comparar métodos construtivos",
+    "selectMethods": "Selecione até 3 métodos para comparar",
+    "baseCost": "Custo base de referência por m²",
+    "area": "Área da obra",
+    "costOfMaterials": "Custo de materiais",
+    "costOfLabor": "Custo de mão de obra",
+    "totalCost": "Custo total",
+    "costPerSquareMeter": "Custo por m²",
+    "estimatedTime": "Tempo estimado",
+    "difference": "Diferença",
+    "potentialSavings": "Economia potencial",
+    "disclaimer": "Comparação relativa baseada em fatores de custo típicos de mercado — use como ponto de partida, não como orçamento fechado. Para um orçamento fechado, use a tela de Orçamento com os preços reais da sua região."
+  }
+}

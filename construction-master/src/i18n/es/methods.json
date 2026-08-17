@@ -1,0 +1,109 @@
+{
+  "conventionalMasonry": {
+    "name": "Mampostería convencional",
+    "description": "Columnas y vigas de concreto armado con muros de relleno en bloques cerámicos o de concreto. El método más tradicional y difundido en Brasil.",
+    "pros": [
+      "Mano de obra ampliamente disponible",
+      "Buena inercia térmica y acústica",
+      "Fácil de remodelar después"
+    ],
+    "cons": ["Obra más lenta", "Mayor generación de escombros"]
+  },
+  "structuralBlock": {
+    "name": "Bloque estructural",
+    "description": "Bloques de concreto que eliminan la necesidad de columnas y vigas visibles — el propio muro es la estructura, asentado con refuerzo y relleno de concreto en los puntos clave.",
+    "pros": [
+      "Menos etapas (sin encofrado de columna/viga)",
+      "Buena relación costo-beneficio en proyectos modulares"
+    ],
+    "cons": [
+      "Requiere un diseño modulado desde el inicio",
+      "Menor flexibilidad para modificar después"
+    ]
+  },
+  "ceramicBrick": {
+    "name": "Ladrillo cerámico",
+    "description": "Muros de relleno con ladrillos cerámicos huecos o macizos, el material de relleno más tradicional del país.",
+    "pros": ["Aislamiento térmico razonable", "Fácil de conseguir y colocar"],
+    "cons": ["Mayor pérdida/rotura durante el transporte y la colocación"]
+  },
+  "concreteBlock": {
+    "name": "Bloque de concreto",
+    "description": "Bloques huecos de concreto usados como relleno (no estructural) o como muro estructural, con buena resistencia mecánica.",
+    "pros": [
+      "Mayor resistencia mecánica",
+      "Colocación más rápida que el ladrillo cerámico"
+    ],
+    "cons": ["Aislamiento térmico generalmente inferior al cerámico"]
+  },
+  "ecoBrick": {
+    "name": "Ladrillo ecológico",
+    "description": "Ladrillo de suelo-cemento prensado, ensamblado sin mortero (o con muy poco mortero) entre hiladas.",
+    "pros": [
+      "Desperdicio muy bajo",
+      "No requiere cocción (menor impacto ambiental)",
+      "Colocación más rápida y limpia"
+    ],
+    "cons": ["Menos mano de obra especializada disponible en algunas regiones"]
+  },
+  "reinforcedConcrete": {
+    "name": "Concreto armado (estructura completa)",
+    "description": "Estructura de concreto armado colada en el sitio para todo el edificio — columnas, vigas y losas — usada en proyectos más grandes o con luces amplias.",
+    "pros": ["Altísima resistencia y durabilidad", "Permite grandes luces libres"],
+    "cons": ["Costo más alto", "Requiere mano de obra y diseño altamente especializados"]
+  },
+  "steelFrame": {
+    "name": "Steel Frame",
+    "description": "Sistema constructivo en seco con perfiles de acero galvanizado que forman la estructura, cerrada con placas (OSB, drywall, cementicias).",
+    "pros": [
+      "Obra mucho más rápida",
+      "Desperdicio de material muy bajo",
+      "Liviano — reduce la carga sobre la cimentación"
+    ],
+    "cons": [
+      "Requiere mano de obra especializada",
+      "Menor inercia térmica sin un aislamiento adecuado"
+    ]
+  },
+  "lightSteelFrame": {
+    "name": "Light Steel Frame",
+    "description": "Variante del Steel Frame con perfiles más livianos, común en ampliaciones, entrepisos y construcciones de pequeña/mediana escala.",
+    "pros": ["Montaje rápido", "Ideal para ampliaciones sobre estructuras existentes"],
+    "cons": ["Requiere proveedores/instaladores especializados en la región"]
+  },
+  "woodFrame": {
+    "name": "Wood Frame",
+    "description": "Estructura de madera de reforestación (montantes y vigas), cerrada con placas — muy común en climas fríos y en crecimiento en Brasil.",
+    "pros": ["Renovable y de bajo impacto cuando se maneja bien", "Buen confort térmico"],
+    "cons": [
+      "Requiere mantenimiento preventivo contra humedad y termitas",
+      "Menos difundido — mano de obra más limitada"
+    ]
+  },
+  "prefabricated": {
+    "name": "Sistemas prefabricados",
+    "description": "Módulos o paneles fabricados en planta y montados en el terreno, reduciendo drásticamente el tiempo de obra en sitio.",
+    "pros": [
+      "Plazo de ejecución muy corto",
+      "Calidad más controlada (producción en fábrica)"
+    ],
+    "cons": [
+      "Menos personalización una vez fabricado",
+      "Depende del transporte y el acceso al terreno"
+    ]
+  },
+  "compare": {
+    "title": "Comparar métodos constructivos",
+    "selectMethods": "Selecciona hasta 3 métodos para comparar",
+    "baseCost": "Costo base de referencia por m²",
+    "area": "Área de la obra",
+    "costOfMaterials": "Costo de materiales",
+    "costOfLabor": "Costo de mano de obra",
+    "totalCost": "Costo total",
+    "costPerSquareMeter": "Costo por m²",
+    "estimatedTime": "Tiempo estimado",
+    "difference": "Diferencia",
+    "potentialSavings": "Ahorro potencial",
+    "disclaimer": "Comparación relativa basada en factores de costo típicos del mercado — úsala como punto de partida, no como presupuesto cerrado. Para un presupuesto cerrado, usa la pantalla de Presupuesto con los precios reales de tu región."
+  }
+}

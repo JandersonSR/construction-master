@@ -1,0 +1,20 @@
+{
+  "title": "Settings",
+  "appearance": "Appearance",
+  "languageAndUnits": "Language and units",
+  "dataAndBackup": "Data and backup",
+  "exportBackup": "Export backup (JSON)",
+  "importBackup": "Import backup (JSON)",
+  "importWarning": "Importing a backup replaces all data stored on this device. Continue?",
+  "importSuccess": "Backup imported successfully.",
+  "exportSuccess": "Backup exported.",
+  "priceCatalog": "Price catalog",
+  "priceCatalogDescription": "Adjust reference prices to match those in your region.",
+  "about": {
+    "title": "About Construction Master",
+    "description": "Free and open source construction planning, calculation and learning system.",
+    "version": "Version",
+    "license": "MIT License — open source on GitHub",
+    "disclaimer": "This app provides estimates for planning purposes. It does not replace an architectural, structural, electrical or plumbing design signed by a licensed professional."
+  }
+}

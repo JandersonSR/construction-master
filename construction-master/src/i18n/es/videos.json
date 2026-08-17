@@ -1,0 +1,17 @@
+{
+  "title": "Videos",
+  "subtitle": "Videos públicos de YouTube seleccionados por etapa. Requiere internet.",
+  "watchOnYoutube": "Ver en YouTube",
+  "offlineNotice": "Los videos requieren conexión a internet — el resto de la app funciona sin conexión.",
+  "categories": {
+    "planning": "Planificación",
+    "foundation": "Cimentación",
+    "masonry": "Mampostería",
+    "hydraulic": "Instalación de agua",
+    "electrical": "Instalación eléctrica",
+    "roofing": "Cubierta",
+    "flooring": "Pisos",
+    "painting": "Pintura",
+    "deck": "Deck"
+  }
+}

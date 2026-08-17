@@ -1,0 +1,13 @@
+{
+  "title": "Progreso",
+  "physicalProgress": "Progreso físico",
+  "financialProgress": "Progreso financiero",
+  "stagesCompleted": "Etapas completadas",
+  "stagesRemaining": "Etapas restantes",
+  "plannedBudget": "Presupuesto planificado",
+  "actualSpend": "Gasto real",
+  "difference": "Diferencia",
+  "chartByStage": "Progreso por etapa",
+  "underBudget": "Dentro del presupuesto",
+  "overBudget": "Por encima del presupuesto"
+}

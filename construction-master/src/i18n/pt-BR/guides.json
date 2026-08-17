@@ -1,0 +1,711 @@
+{
+  "planning": {
+    "objective": "Definir o que construir, com que verba e em quanto tempo, antes de gastar qualquer material.",
+    "steps": [
+      "Liste as necessidades da família (quartos, banheiros, vagas de garagem, áreas de convívio).",
+      "Defina um orçamento máximo realista, incluindo uma reserva de contingência de pelo menos 10%.",
+      "Pesquise a documentação do terreno (matrícula, zoneamento, taxa de ocupação permitida).",
+      "Defina prazos realistas por etapa, considerando estação do ano e disponibilidade de mão de obra.",
+      "Reúna referências visuais e monte uma pasta de inspiração para conversar com o projetista."
+    ],
+    "mistakes": [
+      "Não reservar contingência e ficar sem verba no meio da obra.",
+      "Ignorar taxas e licenças municipais no orçamento inicial.",
+      "Subestimar o tempo de cada etapa por otimismo."
+    ],
+    "tips": [
+      "Comece sempre pelo que é inegociável (número de quartos, acessibilidade) antes do que é estético.",
+      "Converse com quem já construiu na sua região para calibrar expectativas de prazo e custo.",
+      "Guarde tudo em um único lugar (inclusive neste app) para não perder decisões já tomadas."
+    ],
+    "checklist": [
+      "Necessidades da família listadas",
+      "Orçamento máximo definido",
+      "Documentação do terreno verificada",
+      "Contingência de pelo menos 10% reservada"
+    ]
+  },
+  "design": {
+    "objective": "Transformar as necessidades levantadas no planejamento em um projeto arquitetônico aprovável.",
+    "steps": [
+      "Contrate um(a) arquiteto(a) ou engenheiro(a) habilitado para o projeto arquitetônico.",
+      "Valide o projeto contra o orçamento definido na etapa de planejamento.",
+      "Submeta o projeto para aprovação na prefeitura, quando exigido.",
+      "Revise o projeto com todos os moradores antes de aprovar a versão final."
+    ],
+    "mistakes": [
+      "Pular a aprovação legal e construir irregular.",
+      "Aprovar o projeto sem checar se cabe no orçamento."
+    ],
+    "tips": [
+      "Peça ao projetista uma estimativa de custo por m² já na fase de projeto.",
+      "Guarde todas as versões do projeto — você vai comparar com o que foi construído depois."
+    ],
+    "checklist": [
+      "Projeto arquitetônico contratado",
+      "Projeto aprovado pelos moradores",
+      "Aprovação legal (quando exigida) encaminhada"
+    ]
+  },
+  "siteWork": {
+    "objective": "Preparar o terreno para receber a fundação: limpeza, nivelamento e locação da obra.",
+    "steps": [
+      "Limpe o terreno (remoção de vegetação, entulho e camada orgânica do solo).",
+      "Faça a locação da obra (marcação dos eixos e cantos conforme o projeto) com gabarito.",
+      "Nivele o terreno conforme necessário para o tipo de fundação escolhido.",
+      "Providencie ligações provisórias de água e energia para a obra."
+    ],
+    "mistakes": [
+      "Não remover a camada orgânica do solo antes de fundar.",
+      "Locar a obra sem conferir esquadro (ângulos de 90°) nos cantos."
+    ],
+    "tips": [
+      "Confira a locação com a diagonal do retângulo (as duas diagonais devem ser iguais).",
+      "Tire fotos do terreno antes de começar — ajuda em qualquer imprevisto depois."
+    ],
+    "checklist": [
+      "Terreno limpo",
+      "Obra locada e conferida",
+      "Ligações provisórias de água/energia prontas"
+    ]
+  },
+  "foundation": {
+    "objective": "Executar a base que transmite o peso da construção ao solo, com segurança e conforme o tipo definido em projeto.",
+    "steps": [
+      "Confirme o tipo de fundação definido pelo projeto estrutural (sapata, radier, estaca etc.) — nunca escolha sozinho sem avaliação de solo.",
+      "Escave nas cotas e dimensões exatas indicadas no projeto.",
+      "Monte as formas e a armação de aço conforme o projeto estrutural.",
+      "Faça a instalação das passagens de tubulação que atravessam a fundação antes da concretagem.",
+      "Solicite a vistoria do responsável técnico antes de concretar, se aplicável.",
+      "Concrete em uma única etapa contínua sempre que possível, evitando juntas frias não previstas.",
+      "Adense o concreto com vibrador para eliminar bolhas de ar.",
+      "Cure o concreto (mantenha úmido) pelos primeiros 7 dias, no mínimo.",
+      "Aguarde o prazo de cura antes de iniciar a etapa de estrutura."
+    ],
+    "mistakes": [
+      "Definir o tipo de fundação sem estudo de solo e projeto estrutural.",
+      "Concretar sem checar prumo, nível e esquadro das formas.",
+      "Não curar o concreto adequadamente, comprometendo a resistência final.",
+      "Esquecer passagens de tubulação e depois quebrar a fundação pronta."
+    ],
+    "tips": [
+      "Peça sempre a nota fiscal e o traço do concreto usinado, caso opte por comprar pronto.",
+      "Fotografe a armação antes de concretar — é a única forma de conferir depois.",
+      "Nunca inicie a fundação sem o projeto estrutural assinado por profissional habilitado.",
+      "Considere o nível do lençol freático — pode exigir impermeabilização adicional."
+    ],
+    "checklist": [
+      "Projeto estrutural em mãos e aprovado por profissional habilitado",
+      "Escavação nas cotas corretas",
+      "Armação conferida e fotografada",
+      "Passagens de tubulação instaladas",
+      "Concretagem realizada e adensada",
+      "Cura mínima de 7 dias respeitada"
+    ]
+  },
+  "structure": {
+    "objective": "Erguer pilares e vigas que sustentam lajes e telhado, conforme o projeto estrutural.",
+    "steps": [
+      "Monte as formas de pilares e vigas conforme o projeto estrutural.",
+      "Instale a armação de aço dimensionada pelo engenheiro responsável.",
+      "Concrete pilares e vigas, adensando com vibrador.",
+      "Respeite o prazo de cura e desforma indicado pelo responsável técnico antes de continuar."
+    ],
+    "mistakes": [
+      "Desformar antes do prazo de cura mínimo.",
+      "Alterar posição ou seção de pilares sem aprovação do engenheiro."
+    ],
+    "tips": [
+      "Nunca corte ou dobre ferragem de campo sem autorização do responsável técnico.",
+      "Escoramento deve permanecer até liberação formal do profissional responsável."
+    ],
+    "checklist": [
+      "Formas e armação conferidas antes da concretagem",
+      "Concretagem executada com acompanhamento técnico",
+      "Prazo de cura/desforma respeitado"
+    ]
+  },
+  "masonry": {
+    "objective": "Erguer as paredes de vedação, no prumo e no nível, seguindo a marcação do projeto.",
+    "steps": [
+      "Marque no piso a posição de todas as paredes com trena e esquadro.",
+      "Assente a primeira fiada com atenção redobrada — ela define todo o resto da parede.",
+      "Use a linha de pedreiro esticada entre os cantos como guia de nível para cada fiada.",
+      "Verifique o prumo da parede a cada 3-4 fiadas com o nível de bolha.",
+      "Deixe vãos para portas e janelas conforme as medidas do projeto de esquadrias.",
+      "Instale vergas (reforço) acima de todos os vãos de porta e janela.",
+      "Preencha as juntas verticais e horizontais uniformemente com argamassa.",
+      "Aguarde a cura da argamassa antes de iniciar revestimentos sobre a parede."
+    ],
+    "mistakes": [
+      "Não conferir o prumo a cada poucas fiadas — o erro só aparece (e é caro de corrigir) no topo da parede.",
+      "Esquecer vergas sobre portas/janelas, causando trincas depois.",
+      "Usar blocos quebrados nos cantos, enfraquecendo a amarração.",
+      "Assentar sobre uma primeira fiada fora de esquadro."
+    ],
+    "tips": [
+      "Molhe levemente os blocos cerâmicos antes de assentar — evita que puxem a água da argamassa rápido demais.",
+      "Use a calculadora de alvenaria deste app para não sobrar nem faltar material.",
+      "Reserve sempre uma margem de perda (10% é o padrão desta calculadora, ajustável)."
+    ],
+    "checklist": [
+      "Marcação das paredes conferida",
+      "Primeira fiada nivelada e no esquadro",
+      "Vergas instaladas sobre vãos",
+      "Prumo conferido a cada poucas fiadas",
+      "Juntas preenchidas uniformemente"
+    ]
+  },
+  "slabs": {
+    "objective": "Executar a laje que separa pavimentos ou fecha a cobertura, conforme o projeto estrutural.",
+    "steps": [
+      "Monte o escoramento e a forma da laje conforme o projeto.",
+      "Instale as armaduras (positiva/negativa) e as instalações embutidas previstas em projeto.",
+      "Concrete a laje em uma etapa contínua, adensando adequadamente.",
+      "Cure a laje e respeite o prazo de retirada do escoramento indicado pelo responsável técnico."
+    ],
+    "mistakes": [
+      "Retirar o escoramento antes do prazo técnico recomendado.",
+      "Esquecer de embutir eletrodutos/tubulações antes da concretagem."
+    ],
+    "tips": [
+      "Nunca sobrecarregue a laje (materiais empilhados) antes da cura completa.",
+      "Confirme com o responsável técnico o cronograma de escoramento por pavimento."
+    ],
+    "checklist": [
+      "Forma e armação conferidas",
+      "Instalações embutidas conferidas antes da concretagem",
+      "Prazo de escoramento respeitado"
+    ]
+  },
+  "roofing": {
+    "objective": "Fechar a construção com a cobertura, garantindo estanqueidade e escoamento correto da água.",
+    "steps": [
+      "Confirme com o projeto a inclinação mínima recomendada para o tipo de telha escolhido.",
+      "Monte a estrutura (madeira ou metálica) conforme o projeto de cobertura.",
+      "Instale a manta/subcobertura, quando especificada, antes das telhas.",
+      "Fixe as telhas de baixo para cima, respeitando a sobreposição mínima do fabricante.",
+      "Instale cumeeiras nos encontros de água.",
+      "Instale rufos nos encontros com paredes e chaminés para evitar infiltração.",
+      "Instale calhas e condutores de água pluvial.",
+      "Faça uma vistoria de estanqueidade simulando chuva antes de liberar o forro."
+    ],
+    "mistakes": [
+      "Usar inclinação menor que a mínima recomendada pelo fabricante da telha.",
+      "Não instalar rufos nos encontros com paredes.",
+      "Trabalhar em altura sem cinto de segurança/linha de vida.",
+      "Deixar calhas subdimensionadas para o volume de chuva da região."
+    ],
+    "tips": [
+      "Trabalho em telhado é trabalho em altura — sempre use equipamento de proteção contra queda.",
+      "Prefira dias secos e sem vento forte para a montagem.",
+      "Deixe uma pequena reserva de telhas do mesmo lote para reposições futuras (cor pode variar entre lotes)."
+    ],
+    "checklist": [
+      "Inclinação conferida com o fabricante da telha",
+      "Estrutura nivelada e fixada",
+      "Rufos e cumeeiras instalados",
+      "Calhas testadas com água",
+      "EPI de altura utilizado durante toda a etapa"
+    ]
+  },
+  "waterproofing": {
+    "objective": "Impedir a entrada de água em áreas críticas (banheiros, lajes, áreas externas, piscinas).",
+    "steps": [
+      "Identifique todas as áreas que exigem impermeabilização (molhadas, lajes expostas, jardineiras).",
+      "Prepare a superfície: limpa, sem poeira, trincas seladas.",
+      "Aplique o sistema impermeabilizante conforme especificação do fabricante (número de demãos, intervalo de cura).",
+      "Faça o teste de estanqueidade (poça d'água por 72h) antes de revestir por cima."
+    ],
+    "mistakes": [
+      "Revestir por cima da impermeabilização sem esperar a cura completa.",
+      "Não subir a impermeabilização pelas paredes (rodapé impermeável) em áreas molhadas.",
+      "Pular o teste de estanqueidade antes de fechar a área com piso."
+    ],
+    "tips": [
+      "Fotografe a impermeabilização antes de cobrir — você não vai poder ver de novo.",
+      "Guarde a ficha técnica do produto usado, útil para manutenções futuras."
+    ],
+    "checklist": [
+      "Superfície preparada",
+      "Sistema aplicado conforme fabricante",
+      "Teste de estanqueidade realizado com sucesso"
+    ]
+  },
+  "frames": {
+    "objective": "Instalar portas e janelas (esquadrias) nos vãos deixados pela alvenaria.",
+    "steps": [
+      "Confira as medidas do vão contra a esquadria antes de instalar.",
+      "Posicione a esquadria no prumo e nível, calçando temporariamente.",
+      "Fixe a esquadria conforme o método do fabricante (parafusos, contramarco, espuma expansiva).",
+      "Vede o entorno para evitar infiltração e trocas de ar indesejadas."
+    ],
+    "mistakes": [
+      "Instalar fora de prumo, dificultando o fechamento futuro.",
+      "Não vedar o entorno da esquadria adequadamente."
+    ],
+    "tips": [
+      "Meça o vão em três pontos (baixo, meio, alto) — alvenaria raramente é perfeitamente reta.",
+      "Proteja esquadrias de alumínio/madeira com filme plástico durante o restante da obra."
+    ],
+    "checklist": [
+      "Medidas conferidas antes da instalação",
+      "Esquadria no prumo e nível",
+      "Vedação do entorno concluída"
+    ]
+  },
+  "hydraulic": {
+    "objective": "Instalar as tubulações de água fria, água quente e esgoto antes do fechamento das paredes/piso.",
+    "steps": [
+      "Marque nas paredes/piso o trajeto de todas as tubulações conforme o projeto hidráulico.",
+      "Abra os rasgos nas paredes (rasgos rasos, sem comprometer a estrutura) para embutir os tubos.",
+      "Monte a tubulação de água fria/quente com as conexões apropriadas.",
+      "Monte a tubulação de esgoto com caimento mínimo adequado para escoamento por gravidade.",
+      "Instale os pontos de registro em locais acessíveis para manutenção futura.",
+      "Faça o teste de pressão na tubulação de água antes de fechar as paredes.",
+      "Faça o teste de escoamento na tubulação de esgoto antes de fechar.",
+      "Só feche (rasgos, contrapiso) depois de aprovado nos testes."
+    ],
+    "mistakes": [
+      "Fechar a parede antes de testar a tubulação — vazamentos ficam escondidos e caros de corrigir.",
+      "Caimento insuficiente na tubulação de esgoto, causando entupimentos recorrentes.",
+      "Abrir rasgos profundos demais em paredes estruturais, comprometendo a resistência.",
+      "Misturar tubulação de água potável com reuso sem identificação clara."
+    ],
+    "tips": [
+      "Fotografe toda a tubulação antes de fechar — mapa de ouro para manutenções futuras.",
+      "Centralize registros de água em um ponto de fácil acesso (ex.: área de serviço).",
+      "Use a calculadora hidráulica deste app apenas como estimativa de lista de compras — o traçado real é do projeto."
+    ],
+    "checklist": [
+      "Trajeto marcado conforme projeto",
+      "Água fria/quente montada e testada sob pressão",
+      "Esgoto montado com caimento e testado",
+      "Registros em local acessível",
+      "Fotos do 'as built' guardadas antes de fechar"
+    ]
+  },
+  "sanitary": {
+    "objective": "Finalizar louças, metais e ligações sanitárias após o fechamento de pisos e paredes.",
+    "steps": [
+      "Confirme que a tubulação de esgoto foi testada na etapa hidráulica.",
+      "Instale vaso sanitário, pia e demais louças conforme as medidas do projeto.",
+      "Conecte metais (torneiras, registros de acabamento, chuveiros).",
+      "Teste o funcionamento completo (descarga, escoamento, ausência de vazamento) antes de considerar concluído."
+    ],
+    "mistakes": [
+      "Instalar louças antes da cura do rejunte/silicone de vedação.",
+      "Não testar o conjunto completo antes de liberar o ambiente para uso."
+    ],
+    "tips": [
+      "Use silicone sanitário (com fungicida) na base de vasos e pias.",
+      "Guarde o manual de cada louça/metal — facilita manutenção futura."
+    ],
+    "checklist": [
+      "Louças niveladas e fixadas",
+      "Metais conectados sem vazamento",
+      "Teste de funcionamento completo realizado"
+    ]
+  },
+  "electrical": {
+    "objective": "Instalar toda a infraestrutura elétrica com segurança, do quadro de distribuição até os pontos finais.",
+    "steps": [
+      "Confirme o projeto elétrico dimensionado por profissional habilitado (nunca improvise a instalação elétrica).",
+      "Marque nas paredes a posição de todos os pontos (tomadas, interruptores, luminárias).",
+      "Abra rasgos rasos para embutir eletrodutos conforme o projeto.",
+      "Passe os eletrodutos e, em seguida, os cabos, separando circuitos conforme o projeto.",
+      "Instale o quadro de distribuição com disjuntores, DR e DPS dimensionados pelo profissional.",
+      "Instale o sistema de aterramento — item de segurança não-negociável.",
+      "Conecte tomadas, interruptores e pontos de luz, testando a continuidade de cada circuito.",
+      "Faça o teste geral de energização com o profissional responsável presente.",
+      "Só feche paredes/forro após aprovação técnica de toda a instalação."
+    ],
+    "mistakes": [
+      "Dimensionar a instalação sem profissional habilitado — risco de incêndio e choque elétrico.",
+      "Não instalar aterramento ou DR, comprometendo a segurança de toda a casa.",
+      "Misturar fiação de circuitos diferentes no mesmo eletroduto sem necessidade.",
+      "Fechar paredes antes do teste de energização completo."
+    ],
+    "tips": [
+      "Use cores padronizadas de cabo (fase, neutro, terra) — facilita manutenção futura.",
+      "Rotule o quadro de distribuição indicando o que cada disjuntor controla.",
+      "Nunca dispense o profissional habilitado — este é um item de segurança obrigatório, não opcional."
+    ],
+    "checklist": [
+      "Projeto elétrico de profissional habilitado em mãos",
+      "Eletrodutos e cabos instalados conforme projeto",
+      "Aterramento instalado",
+      "Quadro com DR e DPS instalado",
+      "Teste de energização aprovado pelo profissional",
+      "Quadro rotulado"
+    ]
+  },
+  "network": {
+    "objective": "Instalar a infraestrutura de rede cabeada (Ethernet) para internet estável em toda a casa.",
+    "steps": [
+      "Defina os pontos de rede (TVs, escritório, roteador, câmeras) no projeto.",
+      "Passe os cabos de rede junto com os eletrodutos elétricos (em conduítes separados da elétrica de potência).",
+      "Instale o rack/patch panel em um local central e ventilado.",
+      "Teste cada ponto com testador de cabos antes de fechar paredes."
+    ],
+    "mistakes": [
+      "Passar cabo de rede dentro do mesmo eletroduto de cabos de potência (interferência).",
+      "Não testar os pontos antes de fechar a parede."
+    ],
+    "tips": [
+      "Cabo Cat6 já suporta bem as velocidades atuais e futuras — vale o investimento.",
+      "Centralize os equipamentos de rede em um rack ventilado, longe de fontes de calor."
+    ],
+    "checklist": [
+      "Pontos de rede definidos",
+      "Cabos passados e identificados",
+      "Todos os pontos testados"
+    ]
+  },
+  "telephony": {
+    "objective": "Instalar infraestrutura básica de telefonia fixa, quando aplicável.",
+    "steps": [
+      "Defina os pontos de telefonia necessários (hoje, muitas vezes substituídos por VoIP/celular).",
+      "Passe a fiação junto com a rede, em conduíte próprio.",
+      "Teste a linha em cada ponto antes de fechar a parede."
+    ],
+    "mistakes": [
+      "Investir em muitos pontos de telefonia fixa sem avaliar se ainda serão usados."
+    ],
+    "tips": [
+      "Avalie se vale a pena substituir por mais pontos de rede/Wi-Fi em vez de telefonia fixa tradicional."
+    ],
+    "checklist": ["Pontos definidos", "Fiação testada"]
+  },
+  "hvac": {
+    "objective": "Preparar a infraestrutura para ar-condicionado e ventilação antes do acabamento.",
+    "steps": [
+      "Defina a posição das unidades e o trajeto da tubulação frigorígena/dreno.",
+      "Deixe pontos elétricos dedicados para cada aparelho, dimensionados pelo eletricista.",
+      "Preveja o caimento correto da tubulação de dreno para evitar goteiras internas."
+    ],
+    "mistakes": [
+      "Não prever ponto elétrico dedicado, sobrecarregando um circuito existente.",
+      "Dreno sem caimento adequado, causando vazamento dentro de casa."
+    ],
+    "tips": [
+      "Avalie a orientação solar dos ambientes antes de definir a capacidade dos aparelhos.",
+      "Deixe a tubulação acessível para manutenção futura."
+    ],
+    "checklist": [
+      "Posição das unidades definida",
+      "Ponto elétrico dedicado instalado",
+      "Dreno com caimento adequado"
+    ]
+  },
+  "solarPower": {
+    "objective": "Instalar um sistema fotovoltaico para geração de energia, sempre com projeto e instalação profissional.",
+    "steps": [
+      "Use a calculadora de energia solar deste app para estimar o dimensionamento inicial.",
+      "Contrate uma avaliação profissional de viabilidade (estrutura do telhado, orientação, sombreamento).",
+      "Formalize o projeto elétrico e o pedido de homologação junto à concessionária.",
+      "Acompanhe a instalação profissional dos painéis, inversor e proteção elétrica dedicada."
+    ],
+    "mistakes": [
+      "Dimensionar e instalar sem avaliação profissional de estrutura e sombreamento.",
+      "Não homologar o sistema junto à concessionária de energia."
+    ],
+    "tips": [
+      "Painéis solares têm melhor retorno com bom sombreamento avaliado hora a hora, não só 'sol direto'.",
+      "Guarde toda a documentação de garantia dos equipamentos."
+    ],
+    "checklist": [
+      "Dimensionamento estimado com a calculadora",
+      "Avaliação profissional de viabilidade feita",
+      "Homologação junto à concessionária solicitada"
+    ]
+  },
+  "solarHeating": {
+    "objective": "Instalar um sistema de aquecimento solar de água, reduzindo o consumo elétrico/gás do chuveiro e torneiras.",
+    "steps": [
+      "Use a calculadora de aquecimento solar deste app para estimar coletores e reservatório.",
+      "Posicione os coletores com boa orientação solar e inclinação recomendada pelo fabricante.",
+      "Instale o reservatório (boiler) e o sistema de apoio (elétrico ou a gás) para dias sem sol.",
+      "Teste o sistema completo antes de considerar concluído."
+    ],
+    "mistakes": [
+      "Instalar coletores com sombreamento parcial ao longo do dia.",
+      "Não prever sistema de apoio para dias nublados."
+    ],
+    "tips": ["Isolamento térmico da tubulação melhora bastante a eficiência do sistema."],
+    "checklist": [
+      "Dimensionamento estimado com a calculadora",
+      "Coletores instalados com boa orientação",
+      "Sistema de apoio funcionando"
+    ]
+  },
+  "flooring": {
+    "objective": "Instalar o piso final dos ambientes com nivelamento, paginação e acabamento corretos.",
+    "steps": [
+      "Confirme que o contrapiso está nivelado, curado e limpo antes de iniciar.",
+      "Defina a paginação (direção e ponto de início) olhando para a porta principal do ambiente.",
+      "Escolha a argamassa adequada ao tipo de piso e ao substrato.",
+      "Aplique a argamassa com desempenadeira dentada, na quantidade certa para não formar vazios.",
+      "Assente as peças respeitando o espaçador de junta definido no projeto.",
+      "Corte as peças de borda com a ferramenta adequada, evitando lascas.",
+      "Aguarde o prazo de cura da argamassa antes de rejuntar (normalmente 24 a 72h).",
+      "Aplique o rejunte preenchendo bem as juntas, removendo o excesso ainda fresco.",
+      "Limpe o piso removendo resíduos de rejunte com pano úmido.",
+      "Faça a inspeção final: som oco (peça solta), nivelamento entre peças e limpeza."
+    ],
+    "mistakes": [
+      "Assentar sobre contrapiso não curado ou desnivelado.",
+      "Aplicar pouca argamassa, deixando vazios que quebram a peça depois (som oco).",
+      "Não respeitar juntas de dilatação em áreas grandes ou externas.",
+      "Rejuntar antes do prazo de cura da argamassa."
+    ],
+    "tips": [
+      "Sempre abra caixas de pisos diferentes lotes e misture entre si — evita manchas de tonalidade.",
+      "Use a calculadora de piso deste app para saber quantas caixas comprar (ela já arredonda para cima).",
+      "Reserve peças extras de cada lote para reparos futuros."
+    ],
+    "checklist": [
+      "Contrapiso nivelado e curado conferido",
+      "Paginação definida",
+      "Nenhum som oco identificado após assentamento",
+      "Juntas de dilatação respeitadas onde aplicável",
+      "Rejunte aplicado após cura da argamassa",
+      "Limpeza final realizada"
+    ]
+  },
+  "wallCovering": {
+    "objective": "Aplicar revestimentos de parede (cerâmica, porcelanato, textura) em áreas molhadas ou de destaque.",
+    "steps": [
+      "Confirme que a impermeabilização (quando aplicável) já foi testada.",
+      "Marque a paginação a partir do ponto mais visível do ambiente.",
+      "Aplique a argamassa e assente as peças no prumo e nível.",
+      "Rejunte após o prazo de cura da argamassa."
+    ],
+    "mistakes": [
+      "Revestir sobre impermeabilização não testada.",
+      "Não conferir prumo, resultando em linhas de junta tortas visíveis."
+    ],
+    "tips": [
+      "Áreas molhadas merecem revestimento até o teto ou pelo menos 1,5m acima do ponto de água."
+    ],
+    "checklist": [
+      "Impermeabilização testada quando aplicável",
+      "Paginação definida",
+      "Peças assentadas no prumo"
+    ]
+  },
+  "drywall": {
+    "objective": "Montar paredes e forros em drywall, sistema construtivo a seco.",
+    "steps": [
+      "Marque a posição da estrutura metálica (guias e montantes) no piso e teto.",
+      "Instale a estrutura metálica nivelada e aprumada.",
+      "Passe as instalações elétricas/hidráulicas previstas antes de fechar as placas.",
+      "Parafuse as placas de drywall na estrutura, tratando juntas com fita e massa."
+    ],
+    "mistakes": [
+      "Fechar as placas antes de passar toda a instalação prevista.",
+      "Não tratar as juntas corretamente, deixando marcas visíveis após a pintura."
+    ],
+    "tips": [
+      "Use placas verdes (resistentes à umidade) em áreas molhadas.",
+      "Reforce pontos de fixação de armários/TV com estrutura adicional (blocking)."
+    ],
+    "checklist": [
+      "Estrutura metálica nivelada",
+      "Instalações passadas antes do fechamento",
+      "Juntas tratadas com fita e massa"
+    ]
+  },
+  "painting": {
+    "objective": "Aplicar a pintura final, protegendo e dando acabamento às superfícies.",
+    "steps": [
+      "Proteja pisos, esquadrias e móveis com lona/fita antes de começar.",
+      "Lixe a superfície para remover imperfeições e melhorar a aderência da tinta.",
+      "Remova o pó da lixação com pano úmido antes de aplicar qualquer produto.",
+      "Aplique massa corrida nas imperfeições, quando necessário, e lixe novamente após secar.",
+      "Aplique o selador (fundo preparador), respeitando o tempo de secagem do fabricante.",
+      "Dilua a tinta conforme a bula do fabricante, quando aplicável.",
+      "Aplique a primeira demão com pincel nos cantos e rolo nas áreas grandes.",
+      "Respeite o intervalo entre demãos indicado na embalagem antes de aplicar a segunda.",
+      "Aplique a segunda demão (ou mais, conforme cobertura desejada).",
+      "Remova a proteção somente após a tinta estar completamente seca ao toque."
+    ],
+    "mistakes": [
+      "Pintar sobre superfície empoeirada ou com umidade residual.",
+      "Não respeitar o intervalo entre demãos indicado pelo fabricante.",
+      "Diluir a tinta além do recomendado, perdendo cobertura e durabilidade.",
+      "Não proteger pisos e esquadrias, gerando respingos difíceis de remover."
+    ],
+    "tips": [
+      "Use a calculadora de pintura deste app para saber quantos litros comprar por rendimento.",
+      "Compre tinta do mesmo lote para todo o ambiente — evita variação sutil de tom.",
+      "Ambientes bem ventilados aceleram a secagem e reduzem o cheiro."
+    ],
+    "checklist": [
+      "Superfícies protegidas",
+      "Lixamento e limpeza do pó concluídos",
+      "Selador aplicado e seco",
+      "Demãos aplicadas respeitando intervalo do fabricante",
+      "Proteção removida após secagem completa"
+    ]
+  },
+  "doors": {
+    "objective": "Instalar portas internas e externas, dobradiças e fechaduras.",
+    "steps": [
+      "Confira o vão e o alinhamento do batente antes de pendurar a porta.",
+      "Instale as dobradiças alinhadas e niveladas.",
+      "Instale a fechadura, testando o funcionamento antes de considerar concluído.",
+      "Ajuste folgas para garantir abertura/fechamento suave."
+    ],
+    "mistakes": [
+      "Instalar a porta antes da pintura final do batente estar seca.",
+      "Não testar a fechadura antes de liberar o ambiente."
+    ],
+    "tips": [
+      "Portas de áreas molhadas se beneficiam de um pequeno vão inferior extra para ventilação."
+    ],
+    "checklist": ["Batente alinhado", "Dobradiças niveladas", "Fechadura testada"]
+  },
+  "deck": {
+    "objective": "Construir um deck de madeira ou composite sobre uma base preparada.",
+    "steps": [
+      "Prepare a base (nivelada, drenada) onde o deck será apoiado.",
+      "Use a calculadora de deck deste app para estimar tábuas, vigotas e parafusos.",
+      "Instale as vigotas de apoio no espaçamento definido, niveladas entre si.",
+      "Trate/proteja a madeira antes da montagem, se ainda não for tratada de fábrica.",
+      "Fixe as tábuas com o espaçamento de dilatação recomendado pelo fabricante.",
+      "Deixe uma pequena distância entre o deck e paredes para ventilação.",
+      "Aplique o acabamento protetor final (verniz, óleo) conforme o material escolhido.",
+      "Reaplique o acabamento protetor periodicamente conforme a manutenção recomendada."
+    ],
+    "mistakes": [
+      "Apoiar o deck diretamente sobre solo sem drenagem, favorecendo apodrecimento.",
+      "Não deixar espaçamento de dilatação entre tábuas.",
+      "Ignorar a necessidade de reaplicação periódica do acabamento protetor."
+    ],
+    "tips": [
+      "Madeira composite (WPC) exige menos manutenção que madeira maciça, mas custa mais.",
+      "Ventilação por baixo do deck é essencial para sua durabilidade."
+    ],
+    "checklist": [
+      "Base preparada e drenada",
+      "Vigotas niveladas e no espaçamento correto",
+      "Tábuas fixadas com espaçamento de dilatação",
+      "Acabamento protetor aplicado",
+      "Plano de manutenção periódica definido"
+    ]
+  },
+  "pool": {
+    "objective": "Planejar e executar uma piscina com segurança estrutural, hidráulica e elétrica.",
+    "steps": [
+      "Defina o tipo de piscina (alvenaria, vinil, fibra) com apoio de um profissional.",
+      "Providencie projeto estrutural específico — piscina é uma estrutura que retém grande carga de água.",
+      "Execute a parte hidráulica (recirculação, filtragem) conforme projeto do fabricante/instalador.",
+      "Execute a parte elétrica (bomba, iluminação) sempre com proteção DR dedicada e por profissional habilitado.",
+      "Faça o teste de estanqueidade antes do revestimento final."
+    ],
+    "mistakes": [
+      "Executar sem projeto estrutural específico para piscina.",
+      "Ligar a bomba/iluminação da piscina sem proteção DR dedicada.",
+      "Pular o teste de estanqueidade antes do revestimento final."
+    ],
+    "tips": [
+      "Piscina sobre deck ou laje exige verificação estrutural própria — use o módulo de estimativa de peso deste app apenas como referência inicial, nunca como aprovação de segurança."
+    ],
+    "checklist": [
+      "Projeto estrutural específico aprovado",
+      "Hidráulica testada",
+      "Elétrica com DR dedicado instalada por profissional",
+      "Teste de estanqueidade aprovado"
+    ]
+  },
+  "jacuzzi": {
+    "objective": "Instalar uma banheira de hidromassagem/spa com segurança estrutural, elétrica e hidráulica.",
+    "steps": [
+      "Confirme se a base (deck/laje) suporta o peso cheio do equipamento — sempre com avaliação profissional.",
+      "Providencie ponto elétrico dedicado com proteção DR, instalado por eletricista habilitado.",
+      "Instale a parte hidráulica (enchimento, drenagem) conforme o manual do fabricante.",
+      "Teste o sistema de aquecimento e hidromassagem antes do uso."
+    ],
+    "mistakes": [
+      "Não avaliar a estrutura de apoio para o peso total cheio de água e pessoas.",
+      "Ligar o equipamento sem circuito elétrico dedicado e proteção DR."
+    ],
+    "tips": [
+      "Verifique a garantia e a manutenção recomendada pelo fabricante antes de instalar."
+    ],
+    "checklist": [
+      "Estrutura de apoio avaliada por profissional",
+      "Circuito elétrico dedicado com DR instalado",
+      "Sistema testado antes do uso"
+    ]
+  },
+  "outdoorArea": {
+    "objective": "Executar pisos, coberturas leves e infraestrutura da área externa.",
+    "steps": [
+      "Defina o piso externo adequado (antiderrapante, resistente a intempéries).",
+      "Preveja caimento para escoamento de água de chuva.",
+      "Instale pontos elétricos externos com proteção adequada para áreas molhadas (IP65 ou superior)."
+    ],
+    "mistakes": ["Usar piso interno (não antiderrapante) em área externa molhada."],
+    "tips": ["Tomadas externas devem ter tampa de proteção contra respingos."],
+    "checklist": [
+      "Piso externo antiderrapante escolhido",
+      "Caimento para escoamento garantido"
+    ]
+  },
+  "landscaping": {
+    "objective": "Finalizar jardins, gramados e elementos paisagísticos.",
+    "steps": [
+      "Prepare o solo (adubação, nivelamento) antes do plantio.",
+      "Escolha espécies adequadas ao clima e à insolação de cada área.",
+      "Instale sistema de irrigação, se aplicável, antes do plantio final."
+    ],
+    "mistakes": [
+      "Plantar espécies inadequadas ao clima local, gerando manutenção excessiva."
+    ],
+    "tips": ["Espécies nativas geralmente exigem menos manutenção e água."],
+    "checklist": ["Solo preparado", "Espécies escolhidas conforme clima local"]
+  },
+  "finishes": {
+    "objective": "Executar os últimos detalhes de acabamento antes da entrega da obra.",
+    "steps": [
+      "Faça os últimos retoques de pintura e reparos pontuais identificados.",
+      "Instale acessórios finais (espelhos, ferragens, prateleiras).",
+      "Faça a limpeza pós-obra detalhada de todos os ambientes."
+    ],
+    "mistakes": [
+      "Fazer a limpeza final antes de concluir todos os pequenos reparos pendentes."
+    ],
+    "tips": [
+      "Faça uma vistoria com boa iluminação (inclusive lanterna rasante) para identificar pequenas imperfeições de pintura."
+    ],
+    "checklist": ["Retoques finais concluídos", "Limpeza pós-obra concluída"]
+  },
+  "finalInspection": {
+    "objective": "Conferir toda a obra antes de considerá-la concluída, incluindo aspectos de segurança.",
+    "steps": [
+      "Percorra a obra com o checklist de todas as etapas marcado como concluído.",
+      "Teste todas as instalações elétricas (tomadas, disjuntores, DR) uma última vez.",
+      "Teste todas as instalações hidráulicas (registros, ralos, vazamentos) uma última vez.",
+      "Verifique portas, janelas e fechaduras.",
+      "Reúna toda a documentação técnica (projetos, notas fiscais, garantias) em um único lugar."
+    ],
+    "mistakes": [
+      "Não guardar a documentação técnica organizada — dificulta manutenções e uma eventual venda do imóvel.",
+      "Pular o teste final de segurança elétrica e hidráulica."
+    ],
+    "tips": [
+      "Exporte o backup deste app (obra completa) e guarde junto com a documentação física da obra.",
+      "Fotografe o estado final de cada ambiente para referência futura."
+    ],
+    "checklist": [
+      "Todas as etapas marcadas como concluídas",
+      "Instalações elétricas testadas",
+      "Instalações hidráulicas testadas",
+      "Portas, janelas e fechaduras conferidas",
+      "Documentação técnica reunida",
+      "Backup do projeto exportado"
+    ]
+  }
+}

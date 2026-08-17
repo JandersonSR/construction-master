@@ -1,0 +1,66 @@
+{
+  "wizard": {
+    "title": "Nova obra",
+    "steps": {
+      "info": "Informações",
+      "dimensions": "Dimensões",
+      "method": "Método construtivo",
+      "review": "Revisão"
+    },
+    "info": {
+      "name": "Nome da obra",
+      "namePlaceholder": "Ex.: Minha casa, Reforma do apartamento",
+      "location": "Localização",
+      "locationPlaceholder": "Cidade/UF",
+      "type": "Tipo",
+      "typeOptions": {
+        "house": "Casa",
+        "renovation": "Reforma",
+        "addition": "Ampliação",
+        "commercial": "Comercial",
+        "other": "Outro"
+      },
+      "purpose": "Finalidade",
+      "purposePlaceholder": "Ex.: moradia própria, aluguel",
+      "floors": "Número de pavimentos"
+    },
+    "dimensions": {
+      "length": "Comprimento",
+      "width": "Largura",
+      "height": "Pé-direito",
+      "area": "Área",
+      "perimeter": "Perímetro",
+      "doors": "Portas",
+      "windows": "Janelas",
+      "autoCalculated": "Calculado automaticamente a partir do comprimento e largura",
+      "computedArea": "Área calculada",
+      "computedPerimeter": "Perímetro calculado",
+      "computedWallArea": "Área de parede estimada",
+      "rooms": "Ambientes",
+      "addRoom": "Adicionar ambiente",
+      "roomName": "Nome do ambiente",
+      "roomArea": "Área (m²)"
+    },
+    "method": {
+      "title": "Escolha um método construtivo",
+      "description": "Você poderá comparar outros métodos depois, a qualquer momento.",
+      "skip": "Decidir depois"
+    },
+    "finishLevel": {
+      "label": "Nível de acabamento",
+      "economy": "Econômico",
+      "standard": "Padrão",
+      "high": "Alto padrão"
+    },
+    "review": {
+      "title": "Revise antes de criar",
+      "confirm": "Criar obra"
+    }
+  },
+  "detail": {
+    "editInfo": "Editar informações",
+    "scenarios": "Cenários",
+    "createScenario": "Duplicar como novo cenário",
+    "scenarioOfNotice": "Este é um cenário alternativo de \"{{name}}\""
+  }
+}

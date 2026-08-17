@@ -1,0 +1,74 @@
+{
+  "appName": "Construction Master",
+  "tagline": "Planifica, calcula y construye con confianza",
+  "actions": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "finish": "Finalizar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "add": "Agregar",
+    "remove": "Quitar",
+    "close": "Cerrar",
+    "confirm": "Confirmar",
+    "export": "Exportar",
+    "import": "Importar",
+    "print": "Imprimir",
+    "duplicate": "Duplicar",
+    "markDone": "Marcar como hecho",
+    "markPending": "Marcar como pendiente",
+    "seeAll": "Ver todo",
+    "apply": "Aplicar",
+    "reset": "Restablecer valor predeterminado",
+    "openMenu": "Abrir menú",
+    "watchVideo": "Ver video"
+  },
+  "units": {
+    "m": "m",
+    "cm": "cm",
+    "mm": "mm",
+    "m2": "m²",
+    "m3": "m³",
+    "kg": "kg",
+    "g": "g",
+    "L": "L",
+    "unit": "unidad",
+    "bag": "saco",
+    "box": "caja",
+    "roll": "rollo",
+    "kWp": "kWp",
+    "BRL": "R$"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Automático"
+  },
+  "language": {
+    "label": "Idioma",
+    "pt-BR": "Português (Brasil)",
+    "en": "English",
+    "es": "Español"
+  },
+  "safetyNotice": {
+    "title": "Estimación — no sustituye un proyecto profesional",
+    "recommended": "Recomendamos la evaluación de un profesional habilitado antes de ejecutar esta etapa.",
+    "required": "Esta etapa implica un riesgo estructural, eléctrico o de seguridad relevante. La validación de un profesional habilitado (ingeniero, arquitecto, electricista o técnico) es obligatoria antes de la ejecución."
+  },
+  "priceDisclaimer": "Precio estimado — ajústalo a los precios de tu región.",
+  "estimateBadge": "Estimación",
+  "empty": {
+    "noProjects": "Aún no hay obras. Crea la primera para comenzar.",
+    "noResults": "No se encontró nada."
+  },
+  "confirmDelete": "¿Seguro que deseas eliminar esto? Esta acción no se puede deshacer.",
+  "offlineBanner": "Estás sin conexión. Todas las funciones esenciales siguen disponibles — solo los videos requieren internet.",
+  "installApp": "Instalar aplicación",
+  "installAppDescription": "Agrega Construction Master a tu pantalla de inicio para usarlo como una app.",
+  "footer": {
+    "openSource": "Proyecto gratuito y de código abierto",
+    "license": "Licencia MIT"
+  }
+}
