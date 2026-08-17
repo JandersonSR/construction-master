@@ -1,0 +1,702 @@
+{
+  "planning": {
+    "objective": "Define what to build, with what budget and in how much time, before spending on any material.",
+    "steps": [
+      "List your household's needs (bedrooms, bathrooms, parking spots, common areas).",
+      "Set a realistic maximum budget, including a contingency reserve of at least 10%.",
+      "Research the land's documentation (title, zoning, maximum allowed footprint).",
+      "Set realistic deadlines per stage, considering the season and labor availability.",
+      "Gather visual references and build an inspiration folder to discuss with your designer."
+    ],
+    "mistakes": [
+      "Not setting aside a contingency and running out of budget mid-project.",
+      "Ignoring municipal fees and permits in the initial budget.",
+      "Underestimating how long each stage takes out of optimism."
+    ],
+    "tips": [
+      "Always start with what's non-negotiable (number of bedrooms, accessibility) before aesthetics.",
+      "Talk to people who have already built in your area to calibrate cost and time expectations.",
+      "Keep everything in one place (including this app) so you don't lose decisions already made."
+    ],
+    "checklist": [
+      "Household needs listed",
+      "Maximum budget set",
+      "Land documentation checked",
+      "At least 10% contingency reserved"
+    ]
+  },
+  "design": {
+    "objective": "Turn the needs identified in planning into an approvable architectural design.",
+    "steps": [
+      "Hire a licensed architect or engineer for the architectural design.",
+      "Validate the design against the budget set during planning.",
+      "Submit the design for approval with your local building authority, when required.",
+      "Review the final design with everyone who will live there before approving it."
+    ],
+    "mistakes": [
+      "Skipping legal approval and building irregularly.",
+      "Approving a design without checking whether it fits the budget."
+    ],
+    "tips": [
+      "Ask your designer for a cost-per-m² estimate as early as the design phase.",
+      "Keep every version of the design — you'll compare it against what actually gets built."
+    ],
+    "checklist": [
+      "Architectural design commissioned",
+      "Design reviewed by everyone who will live there",
+      "Legal approval (when required) submitted"
+    ]
+  },
+  "siteWork": {
+    "objective": "Prepare the site to receive the foundation: clearing, leveling and laying out the building.",
+    "steps": [
+      "Clear the site (remove vegetation, debris and topsoil).",
+      "Lay out the building (mark axes and corners per the design) using batter boards.",
+      "Level the site as needed for the chosen foundation type.",
+      "Set up temporary water and power connections for the site."
+    ],
+    "mistakes": [
+      "Not removing the topsoil layer before founding.",
+      "Laying out the building without checking square (90° angles) at the corners."
+    ],
+    "tips": [
+      "Check the layout with the rectangle's diagonals (both diagonals should be equal).",
+      "Photograph the site before you start — it helps with any surprise later on."
+    ],
+    "checklist": [
+      "Site cleared",
+      "Building laid out and checked",
+      "Temporary water/power connections ready"
+    ]
+  },
+  "foundation": {
+    "objective": "Build the base that transfers the building's weight to the soil, safely and per the defined foundation type.",
+    "steps": [
+      "Confirm the foundation type defined by the structural design (footing, raft, piles, etc.) — never choose it yourself without a soil study.",
+      "Excavate to the exact levels and dimensions shown in the design.",
+      "Set up the formwork and rebar per the structural design.",
+      "Install any pipe sleeves that cross the foundation before pouring concrete.",
+      "Request the responsible engineer's inspection before pouring, if applicable.",
+      "Pour in a single continuous stage whenever possible, avoiding unplanned cold joints.",
+      "Vibrate the concrete to remove air bubbles.",
+      "Cure the concrete (keep it moist) for at least the first 7 days.",
+      "Wait for the curing period before starting the structure stage."
+    ],
+    "mistakes": [
+      "Choosing the foundation type without a soil study and structural design.",
+      "Pouring without checking plumb, level and square of the formwork.",
+      "Not curing the concrete properly, compromising final strength.",
+      "Forgetting pipe sleeves and later breaking the finished foundation to add them."
+    ],
+    "tips": [
+      "Always request the invoice and mix design if you buy ready-mix concrete.",
+      "Photograph the rebar before pouring — it's the only way to check it later.",
+      "Never start the foundation without a structural design signed by a licensed professional.",
+      "Consider the water table level — it may require additional waterproofing."
+    ],
+    "checklist": [
+      "Structural design in hand and approved by a licensed professional",
+      "Excavation at correct levels",
+      "Rebar checked and photographed",
+      "Pipe sleeves installed",
+      "Concrete poured and vibrated",
+      "Minimum 7-day cure respected"
+    ]
+  },
+  "structure": {
+    "objective": "Build the columns and beams that support the slabs and roof, per the structural design.",
+    "steps": [
+      "Set up formwork for columns and beams per the structural design.",
+      "Install the rebar sized by the responsible engineer.",
+      "Pour columns and beams, vibrating to remove air bubbles.",
+      "Respect the curing and formwork-removal schedule set by the responsible engineer before continuing."
+    ],
+    "mistakes": [
+      "Removing formwork before the minimum curing period.",
+      "Changing column position or size without the engineer's approval."
+    ],
+    "tips": [
+      "Never cut or bend rebar on site without authorization from the responsible engineer.",
+      "Shoring must stay in place until formally released by the responsible professional."
+    ],
+    "checklist": [
+      "Formwork and rebar checked before pouring",
+      "Pour executed with technical supervision",
+      "Curing/formwork-removal schedule respected"
+    ]
+  },
+  "masonry": {
+    "objective": "Build the infill walls, plumb and level, following the design's layout.",
+    "steps": [
+      "Mark the position of every wall on the floor with a tape measure and square.",
+      "Lay the first course with extra care — it defines the rest of the wall.",
+      "Use a mason's line stretched between corners as a level guide for each course.",
+      "Check the wall's plumb every 3-4 courses with a spirit level.",
+      "Leave openings for doors and windows per the frame design's measurements.",
+      "Install lintels above every door and window opening.",
+      "Fill vertical and horizontal joints evenly with mortar.",
+      "Wait for the mortar to cure before starting wall coverings over it."
+    ],
+    "mistakes": [
+      "Not checking plumb every few courses — the error only shows up (and is expensive to fix) at the top of the wall.",
+      "Forgetting lintels over doors/windows, causing cracks later.",
+      "Using broken blocks at corners, weakening the bond.",
+      "Laying on top of an out-of-square first course."
+    ],
+    "tips": [
+      "Lightly wet ceramic blocks before laying — it keeps them from pulling water out of the mortar too fast.",
+      "Use this app's masonry calculator so you don't buy too much or too little material.",
+      "Always keep a waste margin (10% is this calculator's default, adjustable)."
+    ],
+    "checklist": [
+      "Wall layout checked",
+      "First course leveled and square",
+      "Plumb checked every few courses",
+      "Lintels installed over openings",
+      "Joints filled evenly"
+    ]
+  },
+  "slabs": {
+    "objective": "Build the slab that separates floors or closes the roof, per the structural design.",
+    "steps": [
+      "Set up shoring and formwork for the slab per the design.",
+      "Install the rebar (top/bottom) and any embedded services shown in the design.",
+      "Pour the slab in one continuous stage, vibrating properly.",
+      "Cure the slab and respect the shoring-removal schedule set by the responsible engineer."
+    ],
+    "mistakes": [
+      "Removing shoring before the recommended technical schedule.",
+      "Forgetting to embed conduits/pipes before pouring."
+    ],
+    "tips": [
+      "Never overload the slab (stacked materials) before it fully cures.",
+      "Confirm the shoring schedule per floor with the responsible engineer."
+    ],
+    "checklist": [
+      "Formwork and rebar checked",
+      "Embedded services checked before pouring",
+      "Shoring schedule respected"
+    ]
+  },
+  "roofing": {
+    "objective": "Close up the building with the roof, ensuring watertightness and correct water drainage.",
+    "steps": [
+      "Confirm the minimum recommended pitch for the chosen tile type against the design.",
+      "Build the structure (wood or metal) per the roof design.",
+      "Install the underlayment/membrane, when specified, before the tiles.",
+      "Fix tiles from bottom to top, respecting the manufacturer's minimum overlap.",
+      "Install ridge caps at the water meeting points.",
+      "Install flashing where the roof meets walls and chimneys to prevent leaks.",
+      "Install gutters and downspouts.",
+      "Do a watertightness inspection simulating rain before releasing the ceiling below."
+    ],
+    "mistakes": [
+      "Using a pitch lower than the tile manufacturer's minimum recommendation.",
+      "Not installing flashing where the roof meets walls.",
+      "Working at height without a safety harness/lifeline.",
+      "Undersizing gutters for the region's rainfall volume."
+    ],
+    "tips": [
+      "Roof work is work at height — always use fall-protection equipment.",
+      "Prefer dry, low-wind days for assembly.",
+      "Keep a small reserve of tiles from the same batch for future repairs (color can vary between batches)."
+    ],
+    "checklist": [
+      "Pitch checked against tile manufacturer",
+      "Structure leveled and fixed",
+      "Flashing and ridge caps installed",
+      "Gutters tested with water",
+      "Height PPE used throughout the stage"
+    ]
+  },
+  "waterproofing": {
+    "objective": "Prevent water intrusion in critical areas (bathrooms, exposed slabs, outdoor areas, pools).",
+    "steps": [
+      "Identify every area that needs waterproofing (wet areas, exposed slabs, planters).",
+      "Prepare the surface: clean, dust-free, cracks sealed.",
+      "Apply the waterproofing system per the manufacturer's spec (number of coats, cure time between them).",
+      "Do a watertightness test (ponding water for 72h) before covering it with finishes."
+    ],
+    "mistakes": [
+      "Covering the waterproofing with finishes before it's fully cured.",
+      "Not extending waterproofing up the walls (waterproof skirting) in wet areas.",
+      "Skipping the watertightness test before closing the area with flooring."
+    ],
+    "tips": [
+      "Photograph the waterproofing before covering it — you won't be able to see it again.",
+      "Keep the product's technical data sheet — useful for future maintenance."
+    ],
+    "checklist": [
+      "Surface prepared",
+      "System applied per manufacturer spec",
+      "Watertightness test passed"
+    ]
+  },
+  "frames": {
+    "objective": "Install doors and windows in the openings left by the masonry.",
+    "steps": [
+      "Check the opening's measurements against the frame before installing.",
+      "Position the frame plumb and level, temporarily shimming it.",
+      "Fix the frame per the manufacturer's method (screws, sub-frame, expanding foam).",
+      "Seal around it to prevent leaks and unwanted air infiltration."
+    ],
+    "mistakes": [
+      "Installing out of plumb, making it hard to close properly later.",
+      "Not sealing around the frame properly."
+    ],
+    "tips": [
+      "Measure the opening at three points (bottom, middle, top) — masonry is rarely perfectly straight.",
+      "Protect aluminum/wood frames with plastic film for the rest of the project."
+    ],
+    "checklist": [
+      "Measurements checked before installing",
+      "Frame plumb and level",
+      "Surrounding seal completed"
+    ]
+  },
+  "hydraulic": {
+    "objective": "Install water supply and drain piping before walls and floors are closed.",
+    "steps": [
+      "Mark the route of every pipe run on walls/floor per the plumbing design.",
+      "Chase the walls (shallow chases that don't compromise structure) to embed pipes.",
+      "Assemble the cold/hot water piping with the correct fittings.",
+      "Assemble the drain piping with the minimum slope needed for gravity flow.",
+      "Install shut-off valves in accessible locations for future maintenance.",
+      "Pressure-test the water piping before closing the walls.",
+      "Flow-test the drain piping before closing.",
+      "Only close (chases, subfloor) after both tests pass."
+    ],
+    "mistakes": [
+      "Closing the wall before testing the piping — leaks stay hidden and are expensive to fix.",
+      "Insufficient slope on drain piping, causing recurring clogs.",
+      "Chasing too deep into structural walls, compromising strength.",
+      "Mixing potable water piping with reuse water without clear labeling."
+    ],
+    "tips": [
+      "Photograph all the piping before closing it up — a gold-standard map for future maintenance.",
+      "Centralize water shut-off valves in one easily accessible spot (e.g., laundry area).",
+      "Use this app's plumbing calculator only as a shopping-list estimate — the actual routing comes from the design."
+    ],
+    "checklist": [
+      "Route marked per design",
+      "Hot/cold water assembled and pressure-tested",
+      "Drains assembled with slope and flow-tested",
+      "Shut-off valves in an accessible spot",
+      "'As built' photos saved before closing"
+    ]
+  },
+  "sanitary": {
+    "objective": "Finish fixtures, fittings and sanitary connections after floors and walls are closed.",
+    "steps": [
+      "Confirm the drain piping was tested during the plumbing stage.",
+      "Install the toilet, sink and other fixtures per the design's measurements.",
+      "Connect fittings (faucets, finish valves, showers).",
+      "Test the whole assembly (flush, drainage, no leaks) before considering it done."
+    ],
+    "mistakes": [
+      "Installing fixtures before the grout/sealant has cured.",
+      "Not testing the whole assembly before releasing the room for use."
+    ],
+    "tips": [
+      "Use sanitary silicone (with fungicide) at the base of toilets and sinks.",
+      "Keep the manual for each fixture/fitting — it helps with future maintenance."
+    ],
+    "checklist": [
+      "Fixtures leveled and fixed",
+      "Fittings connected with no leaks",
+      "Full functional test completed"
+    ]
+  },
+  "electrical": {
+    "objective": "Install the entire electrical infrastructure safely, from the distribution panel to every outlet.",
+    "steps": [
+      "Confirm the electrical design sized by a licensed professional (never improvise the electrical installation).",
+      "Mark the position of every point (outlets, switches, light fixtures) on the walls.",
+      "Chase shallow channels to embed conduits per the design.",
+      "Run conduits, then cables, keeping circuits separated per the design.",
+      "Install the distribution panel with breakers, RCD and surge protection sized by the professional.",
+      "Install the grounding system — a non-negotiable safety item.",
+      "Connect outlets, switches and light points, testing each circuit's continuity.",
+      "Do a full energization test with the responsible professional present.",
+      "Only close walls/ceiling after the whole installation is technically approved."
+    ],
+    "mistakes": [
+      "Sizing the installation without a licensed professional — fire and shock risk.",
+      "Skipping grounding or RCD protection, compromising the whole house's safety.",
+      "Mixing wiring from different circuits in the same conduit without need.",
+      "Closing walls before the full energization test."
+    ],
+    "tips": [
+      "Use standardized cable colors (live, neutral, ground) — it helps future maintenance.",
+      "Label the distribution panel indicating what each breaker controls.",
+      "Never skip the licensed professional — this is a mandatory safety item, not optional."
+    ],
+    "checklist": [
+      "Electrical design from a licensed professional in hand",
+      "Conduits and cables installed per design",
+      "Grounding installed",
+      "Panel with RCD and surge protection installed",
+      "Energization test approved by the professional",
+      "Panel labeled"
+    ]
+  },
+  "network": {
+    "objective": "Install wired network (Ethernet) infrastructure for stable internet throughout the house.",
+    "steps": [
+      "Define the network points (TVs, office, router, cameras) in the design.",
+      "Run network cables alongside electrical conduits (in separate conduits from power cabling).",
+      "Install the rack/patch panel in a central, ventilated location.",
+      "Test every point with a cable tester before closing walls."
+    ],
+    "mistakes": [
+      "Running network cable inside the same conduit as power cabling (interference).",
+      "Not testing the points before closing the wall."
+    ],
+    "tips": [
+      "Cat6 cable already handles current and near-future speeds well — worth the investment.",
+      "Centralize network equipment in a ventilated rack, away from heat sources."
+    ],
+    "checklist": ["Network points defined", "Cables run and labeled", "All points tested"]
+  },
+  "telephony": {
+    "objective": "Install basic landline telephony infrastructure, when applicable.",
+    "steps": [
+      "Define the telephony points you actually need (often replaced today by VoIP/mobile).",
+      "Run the wiring alongside the network cabling, in its own conduit.",
+      "Test the line at each point before closing the wall."
+    ],
+    "mistakes": [
+      "Investing in many traditional landline points without checking if they'll still be used."
+    ],
+    "tips": [
+      "Consider adding more network/Wi-Fi points instead of traditional landline points."
+    ],
+    "checklist": ["Points defined", "Wiring tested"]
+  },
+  "hvac": {
+    "objective": "Prepare the infrastructure for air conditioning and ventilation before finishes.",
+    "steps": [
+      "Define unit positions and the refrigerant line/drain route.",
+      "Leave dedicated electrical points for each unit, sized by the electrician.",
+      "Plan the correct drain line slope to avoid indoor leaks."
+    ],
+    "mistakes": [
+      "Not planning a dedicated electrical point, overloading an existing circuit.",
+      "Drain line without proper slope, causing indoor leaks."
+    ],
+    "tips": [
+      "Assess each room's solar orientation before sizing unit capacity.",
+      "Keep piping accessible for future maintenance."
+    ],
+    "checklist": [
+      "Unit positions defined",
+      "Dedicated electrical point installed",
+      "Drain line with proper slope"
+    ]
+  },
+  "solarPower": {
+    "objective": "Install a photovoltaic system for power generation, always with professional design and installation.",
+    "steps": [
+      "Use this app's solar calculator to estimate an initial system size.",
+      "Hire a professional feasibility assessment (roof structure, orientation, shading).",
+      "Formalize the electrical design and the grid connection request with your utility.",
+      "Oversee the professional installation of panels, inverter and dedicated electrical protection."
+    ],
+    "mistakes": [
+      "Sizing and installing without a professional structural and shading assessment.",
+      "Not registering the system with your power utility."
+    ],
+    "tips": [
+      "Solar panels perform better with shading assessed hour-by-hour, not just 'gets direct sun'.",
+      "Keep all equipment warranty documentation."
+    ],
+    "checklist": [
+      "Sizing estimated with the calculator",
+      "Professional feasibility assessment done",
+      "Grid connection request submitted to the utility"
+    ]
+  },
+  "solarHeating": {
+    "objective": "Install a solar water heating system, reducing the electric/gas load of showers and taps.",
+    "steps": [
+      "Use this app's solar heating calculator to estimate collectors and tank size.",
+      "Position collectors with good solar orientation and the manufacturer's recommended tilt.",
+      "Install the storage tank and a backup system (electric or gas) for sunless days.",
+      "Test the full system before considering it done."
+    ],
+    "mistakes": [
+      "Installing collectors with partial shading during part of the day.",
+      "Not planning a backup system for cloudy days."
+    ],
+    "tips": [
+      "Thermal insulation on the piping significantly improves system efficiency."
+    ],
+    "checklist": [
+      "Sizing estimated with the calculator",
+      "Collectors installed with good orientation",
+      "Backup system working"
+    ]
+  },
+  "flooring": {
+    "objective": "Install the final flooring with correct leveling, layout and finish.",
+    "steps": [
+      "Confirm the subfloor is level, cured and clean before starting.",
+      "Define the layout (direction and starting point) facing the room's main door.",
+      "Choose the mortar suited to the flooring type and substrate.",
+      "Apply mortar with a notched trowel, in the right amount to avoid voids.",
+      "Lay the tiles respecting the joint spacers defined in the design.",
+      "Cut edge pieces with the right tool, avoiding chips.",
+      "Wait for the mortar's cure time before grouting (usually 24 to 72h).",
+      "Apply grout, filling joints well, removing excess while still fresh.",
+      "Clean the floor, removing grout residue with a damp cloth.",
+      "Do a final inspection: hollow sound (loose tile), leveling between tiles, and cleanliness."
+    ],
+    "mistakes": [
+      "Laying tile over an uncured or unlevel subfloor.",
+      "Applying too little mortar, leaving voids that crack the tile later (hollow sound).",
+      "Not respecting expansion joints in large or outdoor areas.",
+      "Grouting before the mortar has cured."
+    ],
+    "tips": [
+      "Always open boxes from different batches and mix them together — avoids shade mismatches.",
+      "Use this app's flooring calculator to know how many boxes to buy (it already rounds up).",
+      "Keep extra tiles from each batch for future repairs."
+    ],
+    "checklist": [
+      "Subfloor leveling and curing checked",
+      "Layout defined",
+      "No hollow sound found after laying",
+      "Expansion joints respected where applicable",
+      "Grout applied after mortar cured",
+      "Final cleaning done"
+    ]
+  },
+  "wallCovering": {
+    "objective": "Apply wall coverings (ceramic, porcelain, texture) in wet areas or feature areas.",
+    "steps": [
+      "Confirm waterproofing (when applicable) has already been tested.",
+      "Mark the layout starting from the room's most visible point.",
+      "Apply mortar and lay tiles plumb and level.",
+      "Grout after the mortar's cure time."
+    ],
+    "mistakes": [
+      "Tiling over untested waterproofing.",
+      "Not checking plumb, resulting in visibly crooked grout lines."
+    ],
+    "tips": [
+      "Wet areas benefit from tiling up to the ceiling, or at least 1.5m above the water point."
+    ],
+    "checklist": [
+      "Waterproofing tested where applicable",
+      "Layout defined",
+      "Tiles laid plumb"
+    ]
+  },
+  "drywall": {
+    "objective": "Build walls and ceilings with drywall, a dry construction system.",
+    "steps": [
+      "Mark the position of the metal frame (tracks and studs) on floor and ceiling.",
+      "Install the metal frame level and plumb.",
+      "Run any planned electrical/plumbing services before closing the panels.",
+      "Screw drywall panels to the frame, taping and mudding the joints."
+    ],
+    "mistakes": [
+      "Closing the panels before running all planned services.",
+      "Not treating joints properly, leaving visible marks after painting."
+    ],
+    "tips": [
+      "Use moisture-resistant (green) boards in wet areas.",
+      "Reinforce fixing points for cabinets/TVs with extra blocking."
+    ],
+    "checklist": [
+      "Metal frame level",
+      "Services run before closing",
+      "Joints taped and mudded"
+    ]
+  },
+  "painting": {
+    "objective": "Apply the final paint, protecting and finishing surfaces.",
+    "steps": [
+      "Protect floors, frames and furniture with drop cloths/tape before starting.",
+      "Sand the surface to remove imperfections and improve paint adhesion.",
+      "Remove sanding dust with a damp cloth before applying any product.",
+      "Apply spackle to imperfections when needed, and sand again once dry.",
+      "Apply primer/sealer, respecting the manufacturer's drying time.",
+      "Dilute the paint per the manufacturer's instructions, when applicable.",
+      "Apply the first coat, cutting in corners with a brush and rolling large areas.",
+      "Respect the recoat interval on the label before applying the second coat.",
+      "Apply the second coat (or more, for the desired coverage).",
+      "Remove protection only once the paint is fully dry to the touch."
+    ],
+    "mistakes": [
+      "Painting over a dusty surface or one with residual moisture.",
+      "Not respecting the manufacturer's recoat interval.",
+      "Diluting the paint beyond what's recommended, losing coverage and durability.",
+      "Not protecting floors and frames, causing splatters that are hard to remove."
+    ],
+    "tips": [
+      "Use this app's paint calculator to know how many liters to buy based on coverage.",
+      "Buy paint from the same batch for the whole room — avoids subtle shade differences.",
+      "Well-ventilated rooms speed up drying and reduce odor."
+    ],
+    "checklist": [
+      "Surfaces protected",
+      "Sanding and dust cleanup done",
+      "Primer applied and dry",
+      "Coats applied respecting the manufacturer's interval",
+      "Protection removed after full drying"
+    ]
+  },
+  "doors": {
+    "objective": "Install interior and exterior doors, hinges and locks.",
+    "steps": [
+      "Check the opening and frame alignment before hanging the door.",
+      "Install hinges aligned and level.",
+      "Install the lock, testing it before considering it done.",
+      "Adjust clearances for smooth opening/closing."
+    ],
+    "mistakes": [
+      "Installing the door before the frame's final paint has dried.",
+      "Not testing the lock before releasing the room."
+    ],
+    "tips": ["Doors in wet areas benefit from a small extra bottom gap for ventilation."],
+    "checklist": ["Frame aligned", "Hinges level", "Lock tested"]
+  },
+  "deck": {
+    "objective": "Build a wood or composite deck on a prepared base.",
+    "steps": [
+      "Prepare the base (level, drained) where the deck will sit.",
+      "Use this app's deck calculator to estimate boards, joists and screws.",
+      "Install support joists at the defined spacing, level with each other.",
+      "Treat/protect the wood before assembly, if not already factory-treated.",
+      "Fix boards with the manufacturer's recommended expansion gap.",
+      "Leave a small gap between the deck and walls for ventilation.",
+      "Apply the final protective finish (varnish, oil) suited to the chosen material.",
+      "Reapply the protective finish periodically per the recommended maintenance schedule."
+    ],
+    "mistakes": [
+      "Resting the deck directly on undrained soil, encouraging rot.",
+      "Not leaving an expansion gap between boards.",
+      "Ignoring the need to periodically reapply the protective finish."
+    ],
+    "tips": [
+      "Composite (WPC) wood needs less maintenance than solid wood, but costs more.",
+      "Ventilation underneath the deck is essential for its durability."
+    ],
+    "checklist": [
+      "Base prepared and drained",
+      "Joists level and correctly spaced",
+      "Boards fixed with expansion gap",
+      "Protective finish applied",
+      "Periodic maintenance plan defined"
+    ]
+  },
+  "pool": {
+    "objective": "Plan and build a pool with structural, plumbing and electrical safety.",
+    "steps": [
+      "Choose the pool type (masonry, vinyl liner, fiberglass) with a professional's help.",
+      "Get a dedicated structural design — a pool is a structure holding a large water load.",
+      "Execute the plumbing (recirculation, filtration) per the manufacturer's/installer's design.",
+      "Execute the electrical work (pump, lighting) always with dedicated RCD protection and a licensed professional.",
+      "Do a watertightness test before applying the final finish."
+    ],
+    "mistakes": [
+      "Building without a dedicated structural design for the pool.",
+      "Connecting the pump/lighting without dedicated RCD protection.",
+      "Skipping the watertightness test before the final finish."
+    ],
+    "tips": [
+      "A pool on a deck or slab needs its own structural check — use this app's weight-estimate module only as a starting reference, never as a safety approval."
+    ],
+    "checklist": [
+      "Dedicated structural design approved",
+      "Plumbing tested",
+      "Electrical with dedicated RCD installed by a professional",
+      "Watertightness test passed"
+    ]
+  },
+  "jacuzzi": {
+    "objective": "Install a hot tub/spa with structural, electrical and plumbing safety.",
+    "steps": [
+      "Confirm the base (deck/slab) supports the full weight when filled — always with a professional assessment.",
+      "Provide a dedicated electrical point with RCD protection, installed by a licensed electrician.",
+      "Install the plumbing (fill, drain) per the manufacturer's manual.",
+      "Test the heating and jet system before use."
+    ],
+    "mistakes": [
+      "Not assessing the support structure for the full weight of water and people.",
+      "Connecting the unit without a dedicated circuit and RCD protection."
+    ],
+    "tips": [
+      "Check the manufacturer's warranty and recommended maintenance before installing."
+    ],
+    "checklist": [
+      "Support structure assessed by a professional",
+      "Dedicated electrical circuit with RCD installed",
+      "System tested before use"
+    ]
+  },
+  "outdoorArea": {
+    "objective": "Build flooring, light roofing and infrastructure for the outdoor area.",
+    "steps": [
+      "Choose a suitable outdoor floor finish (slip-resistant, weather-resistant).",
+      "Plan slope for rainwater drainage.",
+      "Install outdoor electrical points with proper protection for wet areas (IP65 or higher)."
+    ],
+    "mistakes": ["Using indoor (non-slip-resistant) flooring in a wet outdoor area."],
+    "tips": ["Outdoor outlets should have splash-proof covers."],
+    "checklist": ["Slip-resistant outdoor flooring chosen", "Drainage slope ensured"]
+  },
+  "landscaping": {
+    "objective": "Finish gardens, lawns and landscaping elements.",
+    "steps": [
+      "Prepare the soil (fertilizing, leveling) before planting.",
+      "Choose species suited to the local climate and sun exposure of each area.",
+      "Install an irrigation system, if applicable, before final planting."
+    ],
+    "mistakes": [
+      "Planting species unsuited to the local climate, creating excessive maintenance."
+    ],
+    "tips": ["Native species generally need less maintenance and water."],
+    "checklist": ["Soil prepared", "Species chosen to match local climate"]
+  },
+  "finishes": {
+    "objective": "Handle the final finishing details before project handover.",
+    "steps": [
+      "Do final paint touch-ups and any pending spot repairs.",
+      "Install final fixtures (mirrors, hardware, shelves).",
+      "Do a detailed post-construction cleaning of every room."
+    ],
+    "mistakes": ["Doing the final cleaning before finishing all pending small repairs."],
+    "tips": [
+      "Inspect with good lighting (including a raking flashlight) to spot small paint imperfections."
+    ],
+    "checklist": ["Final touch-ups completed", "Post-construction cleaning completed"]
+  },
+  "finalInspection": {
+    "objective": "Review the entire project before considering it complete, including safety aspects.",
+    "steps": [
+      "Walk through the project with every stage's checklist marked complete.",
+      "Test every electrical installation (outlets, breakers, RCD) one last time.",
+      "Test every plumbing installation (valves, drains, leaks) one last time.",
+      "Check doors, windows and locks.",
+      "Gather all technical documentation (designs, invoices, warranties) in one place."
+    ],
+    "mistakes": [
+      "Not keeping technical documentation organized — it hinders future maintenance and any eventual sale.",
+      "Skipping the final electrical and plumbing safety test."
+    ],
+    "tips": [
+      "Export this app's backup (the full project) and keep it with the project's physical documentation.",
+      "Photograph the final state of every room for future reference."
+    ],
+    "checklist": [
+      "Every stage marked complete",
+      "Electrical installations tested",
+      "Plumbing installations tested",
+      "Doors, windows and locks checked",
+      "Technical documentation gathered",
+      "Project backup exported"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Mi obra",
+  "cards": {
+    "newProject": {
+      "title": "Nueva obra",
+      "description": "Empieza desde cero en pocos pasos"
+    },
+    "continueProject": {
+      "title": "Continuar obra",
+      "description": "Retoma donde lo dejaste"
+    },
+    "budget": { "title": "Presupuesto", "description": "Ve el costo total y por etapa" },
+    "calculators": {
+      "title": "Calculadoras",
+      "description": "Centro de cálculos de construcción"
+    },
+    "materials": { "title": "Materiales", "description": "Lista de compras de la obra" },
+    "guide": {
+      "title": "Guía de construcción",
+      "description": "Paso a paso de cada etapa"
+    },
+    "videos": { "title": "Videos", "description": "Aprende viendo" },
+    "compareMethods": {
+      "title": "Comparar métodos",
+      "description": "Mampostería vs. Steel Frame y más"
+    },
+    "progress": {
+      "title": "Progreso",
+      "description": "Sigue el avance físico y financiero"
+    }
+  },
+  "summary": {
+    "estimatedCost": "Costo estimado",
+    "actualCost": "Costo real",
+    "progress": "Progreso",
+    "nextStage": "Próxima etapa",
+    "pendingMaterials": "Materiales pendientes",
+    "noPendingMaterials": "Sin materiales pendientes",
+    "alerts": "Alertas"
+  },
+  "alerts": {
+    "professionalRequired": "{{count}} etapa necesita evaluación profesional antes de comenzar",
+    "professionalRequired_other": "{{count}} etapas necesitan evaluación profesional antes de comenzar",
+    "overBudget": "El costo real ya superó el presupuesto estimado en {{percent}}%"
+  }
+}

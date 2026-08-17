@@ -1,0 +1,17 @@
+{
+  "title": "Videos",
+  "subtitle": "Curated public YouTube videos by stage. Requires internet.",
+  "watchOnYoutube": "Watch on YouTube",
+  "offlineNotice": "Videos require an internet connection — everything else in the app works offline.",
+  "categories": {
+    "planning": "Planning",
+    "foundation": "Foundation",
+    "masonry": "Masonry",
+    "hydraulic": "Plumbing",
+    "electrical": "Electrical",
+    "roofing": "Roofing",
+    "flooring": "Flooring",
+    "painting": "Painting",
+    "deck": "Deck"
+  }
+}

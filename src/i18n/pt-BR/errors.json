@@ -1,0 +1,13 @@
+{
+  "mustBeNumber": "Digite um número válido.",
+  "mustBePositive": "O valor deve ser maior que zero.",
+  "mustBeNonNegative": "O valor não pode ser negativo.",
+  "mustBeInteger": "O valor deve ser um número inteiro.",
+  "tooLarge": "Esse valor parece grande demais — confira a unidade utilizada.",
+  "outOfRange": "O valor está fora do intervalo permitido.",
+  "openingsExceedWallArea": "A área de portas/janelas não pode ser maior que a área da parede.",
+  "genericTitle": "Não foi possível calcular",
+  "tryAgain": "Corrija os campos destacados e tente novamente.",
+  "importInvalid": "Arquivo de backup inválido.",
+  "importVersionMismatch": "Este arquivo foi exportado por uma versão incompatível do Construction Master."
+}

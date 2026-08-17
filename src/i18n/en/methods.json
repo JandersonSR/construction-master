@@ -1,0 +1,100 @@
+{
+  "conventionalMasonry": {
+    "name": "Conventional masonry",
+    "description": "Reinforced concrete columns and beams with infill walls in ceramic or concrete blocks. The most traditional and widespread method in Brazil.",
+    "pros": [
+      "Skilled labor widely available",
+      "Good thermal and acoustic inertia",
+      "Easy to renovate later"
+    ],
+    "cons": ["Slower construction", "More construction waste"]
+  },
+  "structuralBlock": {
+    "name": "Structural block",
+    "description": "Concrete blocks that eliminate the need for visible columns and beams — the wall itself is the structure, laid with reinforcement and grout at key points.",
+    "pros": [
+      "Fewer steps (no column/beam formwork)",
+      "Good cost-benefit for modular projects"
+    ],
+    "cons": [
+      "Requires a modular design from the start",
+      "Less flexible to change afterwards"
+    ]
+  },
+  "ceramicBrick": {
+    "name": "Ceramic brick",
+    "description": "Infill walls using hollow or solid ceramic bricks, the country's most traditional infill material.",
+    "pros": ["Reasonable thermal insulation", "Easy to find and lay"],
+    "cons": ["More loss/breakage during transport and laying"]
+  },
+  "concreteBlock": {
+    "name": "Concrete block",
+    "description": "Hollow concrete blocks used as infill (non-structural) or structural walls, with good mechanical strength.",
+    "pros": ["Higher mechanical strength", "Faster laying than ceramic brick"],
+    "cons": ["Thermal insulation generally lower than ceramic"]
+  },
+  "ecoBrick": {
+    "name": "Eco brick (soil-cement)",
+    "description": "Pressed soil-cement brick, interlocked without mortar (or with very little mortar) between courses.",
+    "pros": [
+      "Very low waste",
+      "No firing needed (lower environmental impact)",
+      "Faster, cleaner laying"
+    ],
+    "cons": ["Less specialized labor available in some regions"]
+  },
+  "reinforcedConcrete": {
+    "name": "Reinforced concrete (full structure)",
+    "description": "Cast-in-place reinforced concrete structure for the whole building — columns, beams and slabs — used in larger projects or those with large spans.",
+    "pros": ["Very high strength and durability", "Allows large clear spans"],
+    "cons": ["Higher cost", "Requires highly specialized labor and design"]
+  },
+  "steelFrame": {
+    "name": "Steel Frame",
+    "description": "Dry construction system using galvanized steel studs forming the structure, closed with panels (OSB, drywall, cement board).",
+    "pros": [
+      "Much faster construction",
+      "Very low material waste",
+      "Lightweight — reduces foundation load"
+    ],
+    "cons": ["Requires specialized labor", "Lower thermal mass without proper insulation"]
+  },
+  "lightSteelFrame": {
+    "name": "Light Steel Frame",
+    "description": "A lighter-gauge variant of Steel Frame, common in additions, mezzanines and small/medium constructions.",
+    "pros": ["Fast assembly", "Great for additions over existing structures"],
+    "cons": ["Requires specialized suppliers/installers in your area"]
+  },
+  "woodFrame": {
+    "name": "Wood Frame",
+    "description": "Structure built from sustainably sourced wood (studs and beams), closed with panels — very common in cold climates and growing in Brazil.",
+    "pros": ["Renewable and low impact when well managed", "Good thermal comfort"],
+    "cons": [
+      "Requires preventive maintenance against moisture and termites",
+      "Less widespread — more limited skilled labor"
+    ]
+  },
+  "prefabricated": {
+    "name": "Prefabricated systems",
+    "description": "Modules or panels manufactured in a factory and assembled on site, drastically reducing on-site construction time.",
+    "pros": ["Very short execution time", "More controlled quality (factory production)"],
+    "cons": [
+      "Less customization once manufactured",
+      "Depends on transport and site access"
+    ]
+  },
+  "compare": {
+    "title": "Compare construction methods",
+    "selectMethods": "Select up to 3 methods to compare",
+    "baseCost": "Base reference cost per m²",
+    "area": "Project area",
+    "costOfMaterials": "Cost of materials",
+    "costOfLabor": "Cost of labor",
+    "totalCost": "Total cost",
+    "costPerSquareMeter": "Cost per m²",
+    "estimatedTime": "Estimated time",
+    "difference": "Difference",
+    "potentialSavings": "Potential savings",
+    "disclaimer": "Relative comparison based on typical market cost factors — use it as a starting point, not as a closed budget. For a closed budget, use the Budget screen with real prices from your region."
+  }
+}

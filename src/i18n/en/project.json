@@ -1,0 +1,66 @@
+{
+  "wizard": {
+    "title": "New project",
+    "steps": {
+      "info": "Information",
+      "dimensions": "Dimensions",
+      "method": "Construction method",
+      "review": "Review"
+    },
+    "info": {
+      "name": "Project name",
+      "namePlaceholder": "E.g.: My house, Apartment renovation",
+      "location": "Location",
+      "locationPlaceholder": "City/State",
+      "type": "Type",
+      "typeOptions": {
+        "house": "House",
+        "renovation": "Renovation",
+        "addition": "Addition",
+        "commercial": "Commercial",
+        "other": "Other"
+      },
+      "purpose": "Purpose",
+      "purposePlaceholder": "E.g.: primary residence, rental",
+      "floors": "Number of floors"
+    },
+    "dimensions": {
+      "length": "Length",
+      "width": "Width",
+      "height": "Ceiling height",
+      "area": "Area",
+      "perimeter": "Perimeter",
+      "doors": "Doors",
+      "windows": "Windows",
+      "autoCalculated": "Automatically calculated from length and width",
+      "computedArea": "Computed area",
+      "computedPerimeter": "Computed perimeter",
+      "computedWallArea": "Estimated wall area",
+      "rooms": "Rooms",
+      "addRoom": "Add room",
+      "roomName": "Room name",
+      "roomArea": "Area (m²)"
+    },
+    "method": {
+      "title": "Choose a construction method",
+      "description": "You can compare other methods later, at any time.",
+      "skip": "Decide later"
+    },
+    "finishLevel": {
+      "label": "Finish level",
+      "economy": "Economy",
+      "standard": "Standard",
+      "high": "High-end"
+    },
+    "review": {
+      "title": "Review before creating",
+      "confirm": "Create project"
+    }
+  },
+  "detail": {
+    "editInfo": "Edit information",
+    "scenarios": "Scenarios",
+    "createScenario": "Duplicate as a new scenario",
+    "scenarioOfNotice": "This is an alternative scenario of \"{{name}}\""
+  }
+}

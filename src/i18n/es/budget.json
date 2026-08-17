@@ -1,0 +1,59 @@
+{
+  "title": "Presupuesto",
+  "summary": {
+    "materials": "Materiales",
+    "labor": "Mano de obra",
+    "tools": "Herramientas",
+    "other": "Otros",
+    "contingency": "Contingencia",
+    "total": "Total",
+    "costPerM2": "Costo por m²"
+  },
+  "byStage": "Costo por etapa",
+  "chart": {
+    "distribution": "Distribución del presupuesto"
+  },
+  "labor": {
+    "mode": "Modo de mano de obra",
+    "diy": "Lo hago yo mismo (DIY)",
+    "daily": "Jornal",
+    "contract": "Contrato a destajo",
+    "mixed": "Personalizado (mixto)",
+    "workers": "Número de profesionales",
+    "dailyRate": "Valor del jornal",
+    "days": "Días estimados",
+    "totalValue": "Valor total (contrato)",
+    "role": "Especialidad",
+    "roleOptions": {
+      "mason": "Albañil",
+      "electrician": "Electricista",
+      "plumber": "Plomero",
+      "painter": "Pintor",
+      "other": "Otro"
+    },
+    "addAssignment": "Agregar profesional"
+  },
+  "materials": {
+    "title": "Lista de compras",
+    "purchased": "Comprado",
+    "pending": "Pendiente",
+    "quantity": "Cantidad",
+    "unitPrice": "Precio unitario",
+    "supplier": "Proveedor",
+    "addLine": "Agregar material",
+    "markPurchased": "Marcar como comprado"
+  },
+  "prices": {
+    "title": "Precios",
+    "default": "Precio predeterminado",
+    "custom": "Precio personalizado",
+    "restoreDefault": "Restaurar precio predeterminado",
+    "editPrice": "Editar precio",
+    "lastUpdated": "Última actualización"
+  },
+  "report": {
+    "title": "Informe de la obra",
+    "print": "Imprimir / guardar como PDF",
+    "exportJson": "Exportar JSON"
+  }
+}

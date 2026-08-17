@@ -1,0 +1,148 @@
+{
+  "hub": {
+    "title": "Calculator hub",
+    "categories": {
+      "geometry": "Geometry",
+      "concrete": "Concrete",
+      "masonry": "Masonry",
+      "flooring": "Flooring",
+      "paint": "Paint",
+      "roof": "Roof",
+      "deck": "Deck",
+      "hydraulic": "Plumbing",
+      "electrical": "Electrical",
+      "network": "Internet/Network",
+      "solar": "Solar power",
+      "solarHeating": "Solar water heating",
+      "financial": "Financial"
+    }
+  },
+  "geometry": {
+    "title": "Area, volume and perimeter",
+    "length": "Length",
+    "width": "Width",
+    "height": "Height",
+    "openingsArea": "Openings area (doors/windows)",
+    "resultArea": "Area",
+    "resultPerimeter": "Perimeter",
+    "resultWallArea": "Wall area",
+    "resultVolume": "Volume"
+  },
+  "concrete": {
+    "title": "Concrete",
+    "trace": "Mix ratio (cement:sand:gravel)",
+    "resultCementBags": "Cement bags",
+    "resultSand": "Sand",
+    "resultGravel": "Gravel",
+    "resultWater": "Water"
+  },
+  "masonry": {
+    "title": "Masonry",
+    "blockType": "Block/brick type",
+    "wastePercent": "Waste (%)",
+    "resultUnits": "Blocks/bricks",
+    "resultMortar": "Laying mortar"
+  },
+  "flooring": {
+    "title": "Flooring",
+    "boxCoverage": "Coverage per box (m²)",
+    "mortarPerM2": "Mortar per m²",
+    "groutPerM2": "Grout per m²",
+    "resultBoxes": "Boxes to buy",
+    "resultRoundedUpNotice": "Rounded up — boxes can only be bought whole."
+  },
+  "paint": {
+    "title": "Paint",
+    "paintType": "Paint type",
+    "coats": "Number of coats",
+    "resultLiters": "Liters needed"
+  },
+  "roof": {
+    "title": "Roof",
+    "footprintArea": "Footprint area (m²)",
+    "pitch": "Pitch (degrees)",
+    "tileType": "Tile type",
+    "tileCoverage": "Coverage per tile (m²)",
+    "resultRoofArea": "Real roof area",
+    "resultTiles": "Tiles needed"
+  },
+  "deck": {
+    "title": "Deck",
+    "boardCoverage": "Coverage per board (m²)",
+    "joistSpacing": "Joist spacing (m)",
+    "resultArea": "Deck area",
+    "resultBoards": "Boards needed",
+    "resultJoists": "Joists needed",
+    "resultScrews": "Estimated screws",
+    "poolLoadTitle": "Weight estimate — pool on deck",
+    "poolVolume": "Water volume (m³)",
+    "structureWeight": "Estimated structure weight (kg)",
+    "resultWaterWeight": "Water weight",
+    "resultTotalLoad": "Estimated total load"
+  },
+  "hydraulic": {
+    "title": "Plumbing (rough estimate)",
+    "points": "Number of plumbing points",
+    "metersPerPoint": "Pipe meters per point (average)",
+    "connectionsPerPoint": "Connections per point (average)",
+    "resultPipeMeters": "Estimated pipe length",
+    "resultConnections": "Estimated connections"
+  },
+  "electrical": {
+    "title": "Electrical (rough estimate)",
+    "rooms": "Number of rooms",
+    "outletsPerRoom": "Outlets per room (average)",
+    "resultOutlets": "Estimated outlets",
+    "resultSwitches": "Estimated switches",
+    "resultCableMeters": "Estimated cabling",
+    "resultCircuits": "Estimated circuits"
+  },
+  "network": {
+    "title": "Internet/Network (structured cabling)",
+    "points": "Number of network points",
+    "metersPerPoint": "Cable meters per point to the rack (average)",
+    "resultCableMeters": "Estimated cable",
+    "resultConnectors": "Estimated RJ45 connectors",
+    "resultPatchCords": "Estimated patch cords"
+  },
+  "solarHeating": {
+    "title": "Solar water heating",
+    "occupants": "Number of occupants",
+    "collectorAreaM2PerUnit": "Area per collector (m²)",
+    "litersPerPerson": "Liters of hot water per person/day",
+    "resultReservoir": "Reservoir (boiler) volume",
+    "resultCollectors": "Collectors needed",
+    "resultCollectorArea": "Total collector area"
+  },
+  "solar": {
+    "title": "Solar power",
+    "monthlyConsumption": "Monthly consumption (kWh)",
+    "panelWattage": "Panel wattage (W)",
+    "panelArea": "Panel area (m²)",
+    "systemCost": "Estimated system cost",
+    "monthlySavings": "Expected monthly savings",
+    "peakSunHours": "Peak sun hours",
+    "performanceRatio": "System performance ratio",
+    "resultSystemSize": "System size",
+    "resultPanels": "Panels needed",
+    "resultArea": "Required area",
+    "resultGeneration": "Estimated monthly generation",
+    "resultPayback": "Estimated payback"
+  },
+  "financial": {
+    "title": "Financial",
+    "materialsCost": "Materials cost",
+    "laborCost": "Labor cost",
+    "toolsCost": "Tools cost",
+    "otherCost": "Other costs",
+    "contingencyPercent": "Contingency (%)",
+    "area": "Area (m²)",
+    "resultTotal": "Total cost",
+    "resultCostPerM2": "Cost per m²",
+    "diySimulator": "\"Do it yourself\" simulator",
+    "professionalCost": "Cost with a professional",
+    "diyCost": "Cost doing it yourself",
+    "resultSavings": "Estimated savings",
+    "resultSavingsPercent": "Percentage saved"
+  }
+}

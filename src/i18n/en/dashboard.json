@@ -1,0 +1,46 @@
+{
+  "title": "My project",
+  "cards": {
+    "newProject": {
+      "title": "New project",
+      "description": "Start from scratch in a few steps"
+    },
+    "continueProject": {
+      "title": "Continue project",
+      "description": "Pick up where you left off"
+    },
+    "budget": { "title": "Budget", "description": "See total and per-stage cost" },
+    "calculators": {
+      "title": "Calculators",
+      "description": "Construction calculation hub"
+    },
+    "materials": { "title": "Materials", "description": "Your project's shopping list" },
+    "guide": {
+      "title": "Construction guide",
+      "description": "Step-by-step for every stage"
+    },
+    "videos": { "title": "Videos", "description": "Learn by watching" },
+    "compareMethods": {
+      "title": "Compare methods",
+      "description": "Masonry vs. Steel Frame vs. more"
+    },
+    "progress": {
+      "title": "Progress",
+      "description": "Track physical and financial progress"
+    }
+  },
+  "summary": {
+    "estimatedCost": "Estimated cost",
+    "actualCost": "Actual cost",
+    "progress": "Progress",
+    "nextStage": "Next stage",
+    "pendingMaterials": "Pending materials",
+    "noPendingMaterials": "No pending materials",
+    "alerts": "Alerts"
+  },
+  "alerts": {
+    "professionalRequired": "{{count}} stage needs a professional review before starting",
+    "professionalRequired_other": "{{count}} stages need a professional review before starting",
+    "overBudget": "Actual cost has already exceeded the estimated budget by {{percent}}%"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "wizard": {
+    "title": "Nueva obra",
+    "steps": {
+      "info": "Información",
+      "dimensions": "Dimensiones",
+      "method": "Método constructivo",
+      "review": "Revisión"
+    },
+    "info": {
+      "name": "Nombre de la obra",
+      "namePlaceholder": "Ej.: Mi casa, Remodelación del apartamento",
+      "location": "Ubicación",
+      "locationPlaceholder": "Ciudad/Provincia",
+      "type": "Tipo",
+      "typeOptions": {
+        "house": "Casa",
+        "renovation": "Remodelación",
+        "addition": "Ampliación",
+        "commercial": "Comercial",
+        "other": "Otro"
+      },
+      "purpose": "Finalidad",
+      "purposePlaceholder": "Ej.: vivienda propia, alquiler",
+      "floors": "Número de pisos"
+    },
+    "dimensions": {
+      "length": "Largo",
+      "width": "Ancho",
+      "height": "Altura de piso a techo",
+      "area": "Área",
+      "perimeter": "Perímetro",
+      "doors": "Puertas",
+      "windows": "Ventanas",
+      "autoCalculated": "Calculado automáticamente a partir del largo y el ancho",
+      "computedArea": "Área calculada",
+      "computedPerimeter": "Perímetro calculado",
+      "computedWallArea": "Área de pared estimada",
+      "rooms": "Ambientes",
+      "addRoom": "Agregar ambiente",
+      "roomName": "Nombre del ambiente",
+      "roomArea": "Área (m²)"
+    },
+    "method": {
+      "title": "Elige un método constructivo",
+      "description": "Podrás comparar otros métodos después, en cualquier momento.",
+      "skip": "Decidir después"
+    },
+    "finishLevel": {
+      "label": "Nivel de acabado",
+      "economy": "Económico",
+      "standard": "Estándar",
+      "high": "Alta gama"
+    },
+    "review": {
+      "title": "Revisa antes de crear",
+      "confirm": "Crear obra"
+    }
+  },
+  "detail": {
+    "editInfo": "Editar información",
+    "scenarios": "Escenarios",
+    "createScenario": "Duplicar como nuevo escenario",
+    "scenarioOfNotice": "Este es un escenario alternativo de \"{{name}}\""
+  }
+}

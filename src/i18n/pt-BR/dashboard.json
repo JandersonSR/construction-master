@@ -1,0 +1,46 @@
+{
+  "title": "Minha obra",
+  "cards": {
+    "newProject": {
+      "title": "Nova obra",
+      "description": "Comece do zero em poucos passos"
+    },
+    "continueProject": {
+      "title": "Continuar obra",
+      "description": "Volte de onde parou"
+    },
+    "budget": { "title": "Orçamento", "description": "Veja o custo total e por etapa" },
+    "calculators": {
+      "title": "Calculadoras",
+      "description": "Central de cálculos de construção"
+    },
+    "materials": { "title": "Materiais", "description": "Lista de compras da obra" },
+    "guide": {
+      "title": "Guia de construção",
+      "description": "Passo a passo de cada etapa"
+    },
+    "videos": { "title": "Vídeos", "description": "Aprenda assistindo" },
+    "compareMethods": {
+      "title": "Comparar métodos",
+      "description": "Alvenaria x Steel Frame x mais"
+    },
+    "progress": {
+      "title": "Progresso",
+      "description": "Acompanhe o avanço físico e financeiro"
+    }
+  },
+  "summary": {
+    "estimatedCost": "Custo estimado",
+    "actualCost": "Custo realizado",
+    "progress": "Progresso",
+    "nextStage": "Próxima etapa",
+    "pendingMaterials": "Materiais pendentes",
+    "noPendingMaterials": "Nenhum material pendente",
+    "alerts": "Alertas"
+  },
+  "alerts": {
+    "professionalRequired": "{{count}} etapa precisa de avaliação profissional antes de começar",
+    "professionalRequired_other": "{{count}} etapas precisam de avaliação profissional antes de começar",
+    "overBudget": "O custo realizado já ultrapassou o orçamento estimado em {{percent}}%"
+  }
+}

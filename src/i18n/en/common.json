@@ -1,0 +1,74 @@
+{
+  "appName": "Construction Master",
+  "tagline": "Plan, calculate and build with confidence",
+  "actions": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "next": "Next",
+    "back": "Back",
+    "finish": "Finish",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "remove": "Remove",
+    "close": "Close",
+    "confirm": "Confirm",
+    "export": "Export",
+    "import": "Import",
+    "print": "Print",
+    "duplicate": "Duplicate",
+    "markDone": "Mark done",
+    "markPending": "Mark pending",
+    "seeAll": "See all",
+    "apply": "Apply",
+    "reset": "Reset to default",
+    "openMenu": "Open menu",
+    "watchVideo": "Watch video"
+  },
+  "units": {
+    "m": "m",
+    "cm": "cm",
+    "mm": "mm",
+    "m2": "m²",
+    "m3": "m³",
+    "kg": "kg",
+    "g": "g",
+    "L": "L",
+    "unit": "unit",
+    "bag": "bag",
+    "box": "box",
+    "roll": "roll",
+    "kWp": "kWp",
+    "BRL": "R$"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "label": "Language",
+    "pt-BR": "Português (Brasil)",
+    "en": "English",
+    "es": "Español"
+  },
+  "safetyNotice": {
+    "title": "Estimate — does not replace a professional design",
+    "recommended": "We recommend having a licensed professional review this stage before you start.",
+    "required": "This stage involves significant structural, electrical or safety risk. Review and sign-off by a licensed professional (engineer, architect, electrician or technician) is mandatory before execution."
+  },
+  "priceDisclaimer": "Estimated price — adjust it to match the prices in your region.",
+  "estimateBadge": "Estimate",
+  "empty": {
+    "noProjects": "No projects yet. Create your first one to get started.",
+    "noResults": "Nothing found."
+  },
+  "confirmDelete": "Are you sure you want to delete this? This action cannot be undone.",
+  "offlineBanner": "You're offline. All core features still work — only videos require internet.",
+  "installApp": "Install app",
+  "installAppDescription": "Add Construction Master to your home screen to use it like an app.",
+  "footer": {
+    "openSource": "Free and open source project",
+    "license": "MIT License"
+  }
+}

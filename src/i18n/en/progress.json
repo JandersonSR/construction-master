@@ -1,0 +1,13 @@
+{
+  "title": "Progress",
+  "physicalProgress": "Physical progress",
+  "financialProgress": "Financial progress",
+  "stagesCompleted": "Stages completed",
+  "stagesRemaining": "Stages remaining",
+  "plannedBudget": "Planned budget",
+  "actualSpend": "Actual spend",
+  "difference": "Difference",
+  "chartByStage": "Progress by stage",
+  "underBudget": "Within budget",
+  "overBudget": "Over budget"
+}

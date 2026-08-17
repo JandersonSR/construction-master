@@ -1,0 +1,59 @@
+{
+  "title": "Budget",
+  "summary": {
+    "materials": "Materials",
+    "labor": "Labor",
+    "tools": "Tools",
+    "other": "Other",
+    "contingency": "Contingency",
+    "total": "Total",
+    "costPerM2": "Cost per m²"
+  },
+  "byStage": "Cost by stage",
+  "chart": {
+    "distribution": "Budget distribution"
+  },
+  "labor": {
+    "mode": "Labor mode",
+    "diy": "Do it myself (DIY)",
+    "daily": "Day rate",
+    "contract": "Fixed-price contract",
+    "mixed": "Custom (mixed)",
+    "workers": "Number of workers",
+    "dailyRate": "Day rate value",
+    "days": "Estimated days",
+    "totalValue": "Total value (contract)",
+    "role": "Trade",
+    "roleOptions": {
+      "mason": "Mason",
+      "electrician": "Electrician",
+      "plumber": "Plumber",
+      "painter": "Painter",
+      "other": "Other"
+    },
+    "addAssignment": "Add worker"
+  },
+  "materials": {
+    "title": "Shopping list",
+    "purchased": "Purchased",
+    "pending": "Pending",
+    "quantity": "Quantity",
+    "unitPrice": "Unit price",
+    "supplier": "Supplier",
+    "addLine": "Add material",
+    "markPurchased": "Mark as purchased"
+  },
+  "prices": {
+    "title": "Prices",
+    "default": "Default price",
+    "custom": "Custom price",
+    "restoreDefault": "Restore default price",
+    "editPrice": "Edit price",
+    "lastUpdated": "Last updated"
+  },
+  "report": {
+    "title": "Project report",
+    "print": "Print / save as PDF",
+    "exportJson": "Export JSON"
+  }
+}

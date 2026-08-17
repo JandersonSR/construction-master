@@ -1,0 +1,148 @@
+{
+  "hub": {
+    "title": "Centro de calculadoras",
+    "categories": {
+      "geometry": "Geometría",
+      "concrete": "Concreto",
+      "masonry": "Mampostería",
+      "flooring": "Piso",
+      "paint": "Pintura",
+      "roof": "Techo",
+      "deck": "Deck",
+      "hydraulic": "Instalación de agua",
+      "electrical": "Instalación eléctrica",
+      "network": "Internet/Red",
+      "solar": "Energía solar",
+      "solarHeating": "Calentamiento solar",
+      "financial": "Financiera"
+    }
+  },
+  "geometry": {
+    "title": "Área, volumen y perímetro",
+    "length": "Largo",
+    "width": "Ancho",
+    "height": "Altura",
+    "openingsArea": "Área de vanos (puertas/ventanas)",
+    "resultArea": "Área",
+    "resultPerimeter": "Perímetro",
+    "resultWallArea": "Área de pared",
+    "resultVolume": "Volumen"
+  },
+  "concrete": {
+    "title": "Concreto",
+    "trace": "Dosificación (cemento:arena:grava)",
+    "resultCementBags": "Sacos de cemento",
+    "resultSand": "Arena",
+    "resultGravel": "Grava",
+    "resultWater": "Agua"
+  },
+  "masonry": {
+    "title": "Mampostería",
+    "blockType": "Tipo de bloque/ladrillo",
+    "wastePercent": "Desperdicio (%)",
+    "resultUnits": "Bloques/ladrillos",
+    "resultMortar": "Mortero de asiento"
+  },
+  "flooring": {
+    "title": "Piso y revestimiento",
+    "boxCoverage": "Cobertura por caja (m²)",
+    "mortarPerM2": "Mortero por m²",
+    "groutPerM2": "Boquilla por m²",
+    "resultBoxes": "Cajas a comprar",
+    "resultRoundedUpNotice": "Redondeado hacia arriba — las cajas solo se compran completas."
+  },
+  "paint": {
+    "title": "Pintura",
+    "paintType": "Tipo de pintura",
+    "coats": "Número de manos",
+    "resultLiters": "Litros necesarios"
+  },
+  "roof": {
+    "title": "Techo",
+    "footprintArea": "Área de proyección (m²)",
+    "pitch": "Inclinación (grados)",
+    "tileType": "Tipo de teja",
+    "tileCoverage": "Cobertura por teja (m²)",
+    "resultRoofArea": "Área real del techo",
+    "resultTiles": "Tejas necesarias"
+  },
+  "deck": {
+    "title": "Deck",
+    "boardCoverage": "Cobertura por tabla (m²)",
+    "joistSpacing": "Espaciado entre viguetas (m)",
+    "resultArea": "Área del deck",
+    "resultBoards": "Tablas necesarias",
+    "resultJoists": "Viguetas necesarias",
+    "resultScrews": "Tornillos estimados",
+    "poolLoadTitle": "Estimación de peso — piscina sobre deck",
+    "poolVolume": "Volumen de agua (m³)",
+    "structureWeight": "Peso estimado de la estructura (kg)",
+    "resultWaterWeight": "Peso del agua",
+    "resultTotalLoad": "Carga total estimada"
+  },
+  "hydraulic": {
+    "title": "Instalación de agua (estimación aproximada)",
+    "points": "Número de puntos hidráulicos",
+    "metersPerPoint": "Metros de tubería por punto (promedio)",
+    "connectionsPerPoint": "Conexiones por punto (promedio)",
+    "resultPipeMeters": "Tubería estimada",
+    "resultConnections": "Conexiones estimadas"
+  },
+  "electrical": {
+    "title": "Instalación eléctrica (estimación aproximada)",
+    "rooms": "Número de ambientes",
+    "outletsPerRoom": "Tomas por ambiente (promedio)",
+    "resultOutlets": "Tomas estimadas",
+    "resultSwitches": "Interruptores estimados",
+    "resultCableMeters": "Cableado estimado",
+    "resultCircuits": "Circuitos estimados"
+  },
+  "network": {
+    "title": "Internet/Red (cableado estructurado)",
+    "points": "Número de puntos de red",
+    "metersPerPoint": "Metros de cable por punto hasta el rack (promedio)",
+    "resultCableMeters": "Cable estimado",
+    "resultConnectors": "Conectores RJ45 estimados",
+    "resultPatchCords": "Patch cords estimados"
+  },
+  "solarHeating": {
+    "title": "Calentamiento solar de agua",
+    "occupants": "Número de habitantes",
+    "collectorAreaM2PerUnit": "Área por colector (m²)",
+    "litersPerPerson": "Litros de agua caliente por persona/día",
+    "resultReservoir": "Volumen del tanque (boiler)",
+    "resultCollectors": "Colectores necesarios",
+    "resultCollectorArea": "Área total de colectores"
+  },
+  "solar": {
+    "title": "Energía solar",
+    "monthlyConsumption": "Consumo mensual (kWh)",
+    "panelWattage": "Potencia del panel (W)",
+    "panelArea": "Área del panel (m²)",
+    "systemCost": "Costo estimado del sistema",
+    "monthlySavings": "Ahorro mensual esperado",
+    "peakSunHours": "Horas de sol pico (HSP)",
+    "performanceRatio": "Factor de rendimiento del sistema",
+    "resultSystemSize": "Potencia del sistema",
+    "resultPanels": "Paneles necesarios",
+    "resultArea": "Área necesaria",
+    "resultGeneration": "Generación mensual estimada",
+    "resultPayback": "Retorno estimado (payback)"
+  },
+  "financial": {
+    "title": "Financiera",
+    "materialsCost": "Costo de materiales",
+    "laborCost": "Costo de mano de obra",
+    "toolsCost": "Costo de herramientas",
+    "otherCost": "Otros costos",
+    "contingencyPercent": "Contingencia (%)",
+    "area": "Área (m²)",
+    "resultTotal": "Costo total",
+    "resultCostPerM2": "Costo por m²",
+    "diySimulator": "Simulador \"hazlo tú mismo\"",
+    "professionalCost": "Costo con profesional",
+    "diyCost": "Costo haciéndolo tú mismo",
+    "resultSavings": "Ahorro estimado",
+    "resultSavingsPercent": "Porcentaje ahorrado"
+  }
+}
